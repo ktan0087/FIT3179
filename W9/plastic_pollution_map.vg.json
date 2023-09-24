@@ -14,6 +14,13 @@
     },
     {
       "data": {
+        "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/2_symbol_map/js/WorldMapWithGraticules.topojson",
+        "format": { "type": "topojson", "feature": "ne_110m_graticules_30" }
+      },
+      "mark": { "type": "geoshape", "fill": null, "stroke": "lightgray" }
+    },
+    {
+      "data": {
         "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/W9/data.csv"
       },
       "mark": { "type": "circle", "tooltip": { "content": "data" } },
@@ -27,10 +34,10 @@
           "scale": { "domain": [0, 200] }
         },
         "color": {
-          "field": "PM2.5 AQI Value",
+          "field": "Ozone AQI Value",
           "type": "quantitative",
-          "title": "PM2.5 AQI Value",
-          "scale": { "scheme": "reds" }
+          "title": "Ozone AQI Value",
+          "scale": { "scheme": "oranges", "domain": [15, 200] }
         }
       }
     }

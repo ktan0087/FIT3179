@@ -14,7 +14,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/W9/data.csv"
+        "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/W9/earthquake.csv"
       },
       "mark": { "type": "circle", "tooltip": { "content": "data" } },
       "encoding": {
@@ -24,7 +24,7 @@
           "field": "AQI Value",
           "type": "quantitative",
           "title": "AQI Value",
-          "scale": { "domain": [0, 200] }
+          "scale": { "domain": [4, 8] }
         },
         "color": {
           "field": "PM2.5 AQI Value",

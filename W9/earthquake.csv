@@ -1,5 +1,0 @@
-time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2020-10-11T11:09:24.169Z,4.5069,96.6871,153.6,4.7,mb,,141,0.762,0.83,us,us6000c7iv,2020-10-11T11:28:36.040Z,"74 km ENE of Meulaboh, Indonesia",earthquake,9.1,6.7,0.08,47,reviewed,us,us
-2020-10-11T06:54:53.668Z,13.1225,146.8908,10,4.7,mb,,121,2.022,0.52,us,us6000c7ht,2020-10-11T07:22:29.040Z,"221 km ESE of Yigo Village, Guam",earthquake,6,1.8,0.09,38,reviewed,us,us
-2020-10-11T00:41:08.214Z,-14.1874,-72.9527,76.67,4.6,mb,,80,4.375,0.68,us,us6000c7f0,2020-10-11T01:09:31.040Z,"7 km ENE of Pachaconas, Peru",earthquake,8.6,3.8,0.094,34,reviewed,us,us
-2020-10-10T20:58:37.663Z,-62.3357,-58.154,10,5,mb,,69,0.257,0.61,us,us6000c7e4,2020-10-10T21:14:56.040Z,South Shetland Islands,earthquake,4.8,1.8,0.092,39,reviewed,us,us

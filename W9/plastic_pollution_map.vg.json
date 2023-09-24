@@ -14,22 +14,22 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/JiazhouLiu/FIT3179/main/VegaLite/2_symbol_map/data/earthquake.csv"
+        "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/W9/data.csv"
       },
       "mark": { "type": "circle", "tooltip": { "content": "data" } },
       "encoding": {
-        "longitude": { "field": "longitude", "type": "quantitative" },
-        "latitude": { "field": "latitude", "type": "quantitative" },
+        "longitude": { "field": "lng", "type": "quantitative" },
+        "latitude": { "field": "lat", "type": "quantitative" },
         "size": {
-          "field": "mag",
+          "field": "AQI Value",
           "type": "quantitative",
-          "title": "Magnitude (Richter scale)",
-          "scale": { "domain": [4, 8] }
+          "title": "AQI Value",
+          "scale": { "domain": [0, 200] }
         },
         "color": {
-          "field": "depth",
+          "field": "PM2.5 AQI Value",
           "type": "quantitative",
-          "title": "Depth in km",
+          "title": "PM2.5 AQI Value",
           "scale": { "scheme": "reds" }
         }
       }

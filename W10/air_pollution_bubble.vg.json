@@ -1,0 +1,31 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 400,
+  "title": "AQI vs PM2.5 AQI",
+  "data": {
+    "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/W10/data/data.csv"
+  },
+  "mark": "circle",
+  "encoding": {
+    "x": {
+      "field": "AQI Value",
+      "type": "quantitative",
+      "title": "AQI Value",
+      "scale": { "domain": [0, 200] }
+    },
+    "y": {
+      "field": "PM AQI Value",
+      "type": "quantitative",
+      "scale": { "domain": [0, 200] }
+    },
+    "color": {
+      "field": "Country",
+      "type": "nominal"
+    },
+    "size": {
+      "field": "AQI Category",
+      "type": "quantitative"
+    }
+  }
+}

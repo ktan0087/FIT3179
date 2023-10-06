@@ -10,22 +10,69 @@
     "data": {
       "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/W10/data/data.csv"
     },
-    "mark": { "type": "circle", "tooltip": { "content": "data" } },
-    "encoding": {
-      "x": {
-        "field": { "repeat": "column" },
-        "type": "quantitative",
-        "scale": { "domain": [0, 500] }
+    "params": [
+      {
+        "name": "brush",
+        "select": { "type": "interval", "resolve": "global" }
       },
-      "y": {
-        "field": { "repeat": "row" },
-        "type": "quantitative",
-        "scale": { "domain": [0, 500] }
-      },
-      "color": {
-        "field": "AQI Category",
-        "type": "nominal"
+      {
+        "name": "org",
+        "select": { "type": "point", "fields": ["AQI Category"] },
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "Good",
+            "Hazardous",
+            "Moderate",
+            "Unhealthy",
+            "Unhealthy for Sensitive Groups",
+            "Very Unhealthy"
+          ],
+          "labels": [
+            "Show All",
+            "Good",
+            "Hazardous",
+            "Moderate",
+            "Unhealthy",
+            "Unhealthy for Sensitive Groups",
+            "Very Unhealthy"
+          ],
+          "name": "AQI Category: "
+        }
       }
-    }
+    ],
+    "layer": [
+      {
+        "mark": { "type": "point" },
+        "encoding": {
+          "x": {
+            "field": { "repeat": "column" },
+            "type": "quantitative",
+            "scale": { "domain": [0, 500] }
+          },
+          "y": {
+            "field": { "repeat": "row" },
+            "type": "quantitative",
+            "scale": { "domain": [0, 500] }
+          },
+          "color": {
+            "condition": {
+              "selection": "brush",
+              "field": "AQI Category",
+              "type": "nominal",
+              "param": "org"
+            },
+            "value": "grey"
+          },
+          "tooltip": [
+            { "field": "AQI Category", "type": "nominal" },
+            { "field": "AQI Value", "type": "quantitative" },
+            { "field": "Ozone AQI Value", "type": "quantitative" },
+            { "field": "PM AQI Value", "type": "quantitative" }
+          ]
+        }
+      }
+    ]
   }
 }

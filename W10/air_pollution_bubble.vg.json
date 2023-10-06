@@ -1,31 +1,31 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 500,
-  "height": 400,
-  "title": "AQI vs PM2.5 AQI",
-  "data": {
-    "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/W10/data/data.csv"
+  "width": 800,
+  "height": 450,
+  "repeat": {
+    "row": ["AQI Value", "Ozone AQI Value", "PM AQI Value"],
+    "column": ["PM AQI Value", "Ozone AQI Value", "AQI Value"]
   },
-  "mark": "circle",
-  "encoding": {
-    "x": {
-      "field": "AQI Value",
-      "type": "quantitative",
-      "title": "AQI Value",
-      "scale": { "domain": [0, 200] }
+  "spec": {
+    "data": {
+      "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/W10/data/data.csv"
     },
-    "y": {
-      "field": "PM AQI Value",
-      "type": "quantitative",
-      "scale": { "domain": [0, 200] }
-    },
-    "color": {
-      "field": "Country",
-      "type": "nominal"
-    },
-    "size": {
-      "field": "AQI Category",
-      "type": "quantitative"
+    "mark": { "type": "circle", "tooltip": { "content": "data" } },
+    "encoding": {
+      "x": {
+        "field": { "repeat": "column" },
+        "type": "quantitative",
+        "scale": { "domain": [0, 500] }
+      },
+      "y": {
+        "field": { "repeat": "row" },
+        "type": "quantitative",
+        "scale": { "domain": [0, 500] }
+      },
+      "color": {
+        "field": "AQI Category",
+        "type": "nominal"
+      }
     }
   }
 }

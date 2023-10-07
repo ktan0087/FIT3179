@@ -6,44 +6,45 @@
     "row": ["AQI Value", "Ozone AQI Value", "PM AQI Value"],
     "column": ["PM AQI Value", "Ozone AQI Value", "AQI Value"]
   },
+  "data": {
+    "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/W10/data/data.csv"
+  },
   "spec": {
-    "data": {
-      "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/W10/data/data.csv"
-    },
-    "params": [
-      {
-        "name": "brush",
-        "select": { "type": "interval", "resolve": "global" }
-      },
-      {
-        "name": "org",
-        "select": { "type": "point", "fields": ["AQI Category"] },
-        "bind": {
-          "input": "select",
-          "options": [
-            null,
-            "Good",
-            "Hazardous",
-            "Moderate",
-            "Unhealthy",
-            "Unhealthy for Sensitive Groups",
-            "Very Unhealthy"
-          ],
-          "labels": [
-            "Show All",
-            "Good",
-            "Hazardous",
-            "Moderate",
-            "Unhealthy",
-            "Unhealthy for Sensitive Groups",
-            "Very Unhealthy"
-          ],
-          "name": "AQI Category: "
-        }
-      }
-    ],
     "layer": [
       {
+        "params": [
+          {
+            "name": "brush",
+            "select": { "type": "interval", "resolve": "global" }
+          },
+          {
+            "name": "org",
+            "select": { "type": "point", "fields": ["AQI Category"] },
+            "bind": {
+              "input": "select",
+              "options": [
+                null,
+                "Good",
+                "Hazardous",
+                "Moderate",
+                "Unhealthy",
+                "Unhealthy for Sensitive Groups",
+                "Very Unhealthy"
+              ],
+              "labels": [
+                "Show All",
+                "Good",
+                "Hazardous",
+                "Moderate",
+                "Unhealthy",
+                "Unhealthy for Sensitive Groups",
+                "Very Unhealthy"
+              ],
+              "name": "AQI Category: "
+            }
+          }
+        ],
+        "transform": [{ "filter": { "param": "brush" } }],
         "mark": { "type": "point" },
         "encoding": {
           "x": {
@@ -58,10 +59,9 @@
           },
           "color": {
             "condition": {
-              "selection": "brush",
+              "param": "org",
               "field": "AQI Category",
-              "type": "nominal",
-              "param": "org"
+              "type": "nominal"
             },
             "value": "grey"
           },
@@ -72,6 +72,9 @@
             { "field": "PM AQI Value", "type": "quantitative" }
           ]
         }
+      },
+      {
+        "mark": { "type": "text", "color": "black" }
       }
     ]
   }

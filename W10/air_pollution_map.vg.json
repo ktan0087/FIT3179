@@ -23,7 +23,7 @@
       "data": {
         "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/W9/data/data.csv"
       },
-      "mark": { "type": "circle", "tooltip": { "content": "data" } },
+      "mark": { "type": "circle" },
       "encoding": {
         "longitude": { "field": "lng", "type": "quantitative" },
         "latitude": { "field": "lat", "type": "quantitative" },
@@ -38,7 +38,13 @@
           "type": "quantitative",
           "title": "Ozone AQI Value",
           "scale": { "scheme": "oranges", "domain": [15, 200] }
-        }
+        },
+        "tooltip": [
+          { "field": "City", "type": "nominal" },
+          { "field": "Country", "type": "nominal" },
+          { "field": "AQI Value", "type": "quantitative" },
+          { "field": "Ozone AQI Value", "type": "quantitative" }
+        ]
       }
     }
   ]

@@ -1,0 +1,500 @@
+Country,City,lat,lng,AQI Value,AQI Category,CO AQI Value,CO AQI Category,Ozone AQI Value,Ozone AQI Category,NO2 AQI Value,NO2 AQI Category,PM AQI Value,PM AQI Category
+Russian Federation,Praskoveya,44.7444,44.2031,51,Moderate,1,Good,36,Good,0,Good,51,Moderate
+Brazil,Presidente Dutra,-5.29,-44.49,41,Good,1,Good,5,Good,1,Good,41,Good
+Brazil,Presidente Dutra,-11.2958,-41.9869,41,Good,1,Good,5,Good,1,Good,41,Good
+Italy,Priolo Gargallo,37.1667,15.1833,66,Moderate,1,Good,39,Good,2,Good,66,Moderate
+Poland,Przasnysz,53.0167,20.8833,34,Good,1,Good,34,Good,0,Good,20,Good
+United States of America,Punta Gorda,16.1005,-88.8074,54,Moderate,1,Good,14,Good,11,Good,54,Moderate
+United States of America,Punta Gorda,26.8941,-82.0513,54,Moderate,1,Good,14,Good,11,Good,54,Moderate
+Belgium,Puurs,51.0761,4.2803,64,Moderate,1,Good,29,Good,7,Good,64,Moderate
+Russian Federation,Pyatigorsk,44.05,43.0667,54,Moderate,1,Good,41,Good,1,Good,54,Moderate
+China,Qinzhou,21.95,108.6167,68,Moderate,2,Good,68,Moderate,1,Good,58,Moderate
+Netherlands,Raalte,52.3833,6.2667,41,Good,1,Good,24,Good,6,Good,41,Good
+France,Raismes,50.3892,3.4858,59,Moderate,1,Good,30,Good,4,Good,59,Moderate
+Italy,Ramacca,37.3833,14.7,55,Moderate,1,Good,47,Good,0,Good,55,Moderate
+United States of America,Phoenix,33.5722,-112.0892,72,Moderate,1,Good,4,Good,23,Good,72,Moderate
+Poland,Piaseczno,52.0667,21.0167,28,Good,1,Good,28,Good,2,Good,28,Good
+Brazil,Pinheiral,-22.5128,-44.0008,154,Unhealthy,5,Good,0,Good,13,Good,154,Unhealthy
+Colombia,Plato,9.7919,-74.7872,67,Moderate,1,Good,16,Good,2,Good,67,Moderate
+Romania,Poiana Mare,43.9333,23.0833,62,Moderate,1,Good,37,Good,1,Good,62,Moderate
+Russian Federation,Polevskoy,56.45,60.1833,31,Good,1,Good,31,Good,0,Good,17,Good
+France,Pontarlier,46.9061,6.3547,56,Moderate,1,Good,35,Good,0,Good,56,Moderate
+United States of America,Pontiac,42.6493,-83.2878,77,Moderate,2,Good,22,Good,15,Good,77,Moderate
+United States of America,Pontiac,40.8894,-88.6409,77,Moderate,2,Good,22,Good,15,Good,77,Moderate
+Indonesia,Pontianak,-0.0206,109.3414,44,Good,1,Good,15,Good,0,Good,44,Good
+Brazil,Porecatu,-22.7558,-51.3789,30,Good,1,Good,9,Good,2,Good,30,Good
+Finland,Pori,61.4833,21.8,30,Good,1,Good,30,Good,1,Good,15,Good
+South Africa,Port Elizabeth,-33.9581,25.6,79,Moderate,3,Good,18,Good,5,Good,79,Moderate
+United States of America,Port Neches,29.9765,-93.9459,34,Good,1,Good,19,Good,7,Good,34,Good
+United Kingdom of Great Britain and Northern Ireland,Port Talbot,51.5906,-3.7986,51,Moderate,1,Good,20,Good,5,Good,51,Moderate
+United States of America,Portales,34.1754,-103.3565,77,Moderate,1,Good,34,Good,0,Good,77,Moderate
+United States of America,Post Falls,47.7213,-116.9384,61,Moderate,1,Good,32,Good,3,Good,61,Moderate
+Brazil,Pouso Alegre,-22.2281,-45.9336,32,Good,1,Good,7,Good,2,Good,32,Good
+Russian Federation,Dalnegorsk,44.55,135.5833,29,Good,0,Good,29,Good,0,Good,25,Good
+India,Darbhanga,26.17,85.9,247,Very Unhealthy,3,Good,162,Unhealthy,1,Good,247,Very Unhealthy
+United States of America,Dayton,39.7805,-84.2003,45,Good,1,Good,32,Good,7,Good,45,Good
+United States of America,Dayton,39.2592,-119.5653,45,Good,1,Good,32,Good,7,Good,45,Good
+United States of America,Dayton,30.0315,-94.9158,45,Good,1,Good,32,Good,7,Good,45,Good
+Belgium,Deinze,50.9833,3.5333,36,Good,1,Good,25,Good,3,Good,36,Good
+Haiti,Delmas,18.55,-72.3,124,Unhealthy for Sensitive Groups,2,Good,15,Good,5,Good,124,Unhealthy for Sensitive Groups
+United States of America,Deming,32.2631,-107.7525,72,Moderate,1,Good,26,Good,2,Good,72,Moderate
+United Kingdom of Great Britain and Northern Ireland,Denton,33.2175,-97.1418,55,Moderate,0,Good,32,Good,1,Good,55,Moderate
+United Kingdom of Great Britain and Northern Ireland,Denton,53.4554,-2.1122,55,Moderate,0,Good,32,Good,1,Good,55,Moderate
+United States of America,Destin,30.395,-86.4701,31,Good,0,Good,31,Good,0,Good,25,Good
+India,Dharmapuri,12.127,78.158,60,Moderate,1,Good,31,Good,1,Good,60,Moderate
+Philippines,Dipolog,8.5872,123.3408,30,Good,1,Good,17,Good,0,Good,30,Good
+Latvia,Dobele,56.6167,23.2667,44,Good,1,Good,34,Good,0,Good,44,Good
+United States of America,Grandville,42.9004,-85.7564,47,Good,1,Good,37,Good,4,Good,47,Good
+Netherlands,Grave,51.7667,5.7333,37,Good,0,Good,32,Good,2,Good,37,Good
+United States of America,Green Valley,31.8393,-111.0009,44,Good,1,Good,14,Good,8,Good,44,Good
+United States of America,Green Valley,39.3414,-77.24,44,Good,1,Good,14,Good,8,Good,44,Good
+United States of America,Greendale,42.9371,-88.0018,58,Moderate,2,Good,14,Good,24,Good,58,Moderate
+Colombia,Guamo,4.0833,-74.9167,89,Moderate,3,Good,3,Good,6,Good,89,Moderate
+Italy,Guardiagrele,42.2,14.2167,52,Moderate,2,Good,38,Good,7,Good,52,Moderate
+United Kingdom of Great Britain and Northern Ireland,Guildford,51.2365,-0.5703,51,Moderate,1,Good,25,Good,6,Good,51,Moderate
+Russian Federation,Gukovo,48.05,39.9167,38,Good,1,Good,38,Good,0,Good,13,Good
+United States of America,Hazelwood,38.7931,-90.3899,88,Moderate,2,Good,11,Good,20,Good,88,Moderate
+Germany,Heddesheim,49.5053,8.6033,54,Moderate,1,Good,31,Good,3,Good,54,Moderate
+Germany,Heiligenhaus,51.3167,6.9667,44,Good,1,Good,28,Good,3,Good,44,Good
+United Kingdom of Great Britain and Northern Ireland,Hemel Hempstead,51.7526,-0.4692,51,Moderate,1,Good,26,Good,6,Good,51,Moderate
+United States of America,Hicksville,40.7637,-73.5245,67,Moderate,2,Good,15,Good,23,Good,67,Moderate
+Germany,Haiger,50.7422,8.2039,49,Good,1,Good,25,Good,3,Good,49,Good
+China,Hangzhou,30.25,120.1675,203,Very Unhealthy,5,Good,203,Very Unhealthy,5,Good,151,Unhealthy
+Germany,Harrislee,54.7972,9.3764,35,Good,0,Good,32,Good,0,Good,35,Good
+United States of America,Harrison,40.7431,-74.1531,90,Moderate,1,Good,25,Good,2,Good,90,Moderate
+United States of America,Harrison,41.0236,-73.7193,90,Moderate,1,Good,25,Good,2,Good,90,Moderate
+United States of America,Harrison,36.2438,-93.1198,90,Moderate,1,Good,25,Good,2,Good,90,Moderate
+United States of America,Harrison,39.2584,-84.7868,90,Moderate,1,Good,25,Good,2,Good,90,Moderate
+United States of America,Harrison,44.1935,-88.2941,90,Moderate,1,Good,25,Good,2,Good,90,Moderate
+United States of America,Harrison,40.6374,-79.7173,90,Moderate,1,Good,25,Good,2,Good,90,Moderate
+Germany,Hasbergen,52.2167,7.9167,36,Good,0,Good,34,Good,1,Good,36,Good
+France,Haubourdin,50.6092,2.9869,48,Good,1,Good,28,Good,4,Good,48,Good
+United States of America,Taunton,51.019,-3.1,41,Good,1,Good,28,Good,10,Good,41,Good
+United States of America,Taunton,41.9036,-71.0943,41,Good,1,Good,28,Good,10,Good,41,Good
+New Zealand,Tauranga,-37.6833,176.1667,19,Good,0,Good,19,Good,1,Good,17,Good
+Italy,Teano,41.25,14.0667,47,Good,1,Good,47,Good,1,Good,36,Good
+India,Tekkali,18.6057,84.2355,155,Unhealthy,3,Good,82,Moderate,1,Good,155,Unhealthy
+Brazil,Teodoro Sampaio,-22.5328,-52.1678,46,Good,1,Good,9,Good,1,Good,46,Good
+Mexico,Tequila,20.8794,-103.8356,64,Moderate,1,Good,15,Good,2,Good,64,Moderate
+Italy,Teramo,42.6589,13.7039,44,Good,1,Good,44,Good,1,Good,38,Good
+China,Tianjin,39.1467,117.2056,142,Unhealthy for Sensitive Groups,4,Good,113,Unhealthy for Sensitive Groups,9,Good,142,Unhealthy for Sensitive Groups
+Philippines,Toboso,10.7167,123.5167,54,Moderate,1,Good,20,Good,0,Good,54,Moderate
+Japan,Tokorozawa,35.7996,139.4686,60,Moderate,1,Good,44,Good,3,Good,60,Moderate
+Mexico,Toluca,19.2925,-99.6569,166,Unhealthy,4,Good,8,Good,19,Good,166,Unhealthy
+Brazil,Itapissuma,-7.7764,-34.8919,27,Good,0,Good,23,Good,1,Good,27,Good
+Brazil,Itarantim,-15.66,-40.0658,23,Good,1,Good,7,Good,1,Good,23,Good
+Brazil,Itumbiara,-18.4167,-49.2167,31,Good,1,Good,13,Good,0,Good,31,Good
+El Salvador,Izalco,13.7333,-89.6667,90,Moderate,2,Good,22,Good,9,Good,90,Moderate
+Russian Federation,Izberbash,42.5633,47.8636,51,Moderate,1,Good,38,Good,0,Good,51,Moderate
+India,Jabalpur,23.1667,79.9333,170,Unhealthy,1,Good,38,Good,0,Good,170,Unhealthy
+Brazil,Jaguaquara,-13.5308,-39.9708,22,Good,0,Good,9,Good,1,Good,22,Good
+Poland,Jarocin,51.9667,17.5,47,Good,1,Good,27,Good,2,Good,47,Good
+Philippines,Jasaan,8.65,124.75,59,Moderate,1,Good,32,Good,0,Good,59,Moderate
+Nigeria,Ilobu,7.84,4.486,133,Unhealthy for Sensitive Groups,4,Good,23,Good,3,Good,133,Unhealthy for Sensitive Groups
+Finland,Imatra,61.1833,28.7667,29,Good,1,Good,29,Good,1,Good,7,Good
+Brazil,Indaial,-26.8978,-49.2319,73,Moderate,2,Good,2,Good,8,Good,73,Moderate
+Philippines,Indang,14.2,120.8833,50,Good,0,Good,24,Good,0,Good,50,Good
+Brazil,Itagi,-14.1628,-40.0058,25,Good,0,Good,9,Good,1,Good,25,Good
+Nigeria,Iseyin,7.9667,3.6,90,Moderate,3,Good,18,Good,2,Good,90,Moderate
+Mexico,Isla,18.0292,-95.5264,81,Moderate,2,Good,26,Good,3,Good,81,Moderate
+Brazil,Itaitinga,-3.9689,-38.5278,29,Good,0,Good,20,Good,1,Good,29,Good
+Brazil,Itapemirim,-21.0108,-40.8339,44,Good,1,Good,16,Good,1,Good,44,Good
+South Sudan,Torit,4.4081,32.575,65,Moderate,1,Good,12,Good,0,Good,65,Moderate
+United States of America,Trenton,40.2237,-74.7641,53,Moderate,1,Good,28,Good,10,Good,53,Moderate
+United States of America,Trenton,42.1394,-83.1929,53,Moderate,1,Good,28,Good,10,Good,53,Moderate
+United States of America,Trenton,39.4792,-84.462,53,Moderate,1,Good,28,Good,10,Good,53,Moderate
+United States of America,Trujillo Alto,18.3599,-66.0096,56,Moderate,0,Good,23,Good,0,Good,56,Moderate
+Ireland,Tullamore,53.2667,-7.5,57,Moderate,1,Good,26,Good,3,Good,57,Moderate
+Turkey,Tunceli,39.1064,39.5472,62,Moderate,0,Good,35,Good,0,Good,62,Moderate
+United States of America,Two Rivers,44.1565,-87.5824,49,Good,1,Good,27,Good,4,Good,49,Good
+Russian Federation,Tyukalinsk,55.8667,72.2,34,Good,1,Good,34,Good,0,Good,32,Good
+India,Umaria,23.5247,80.8372,163,Unhealthy,2,Good,92,Moderate,0,Good,163,Unhealthy
+United States of America,Willowbrook,33.9209,-118.2356,126,Unhealthy for Sensitive Groups,4,Good,3,Good,36,Good,126,Unhealthy for Sensitive Groups
+United States of America,Willowbrook,41.7641,-87.9454,126,Unhealthy for Sensitive Groups,4,Good,3,Good,36,Good,126,Unhealthy for Sensitive Groups
+United States of America,Wilmette,42.0771,-87.7282,63,Moderate,2,Good,9,Good,22,Good,63,Moderate
+United States of America,Wolf Trap,38.9395,-77.2842,53,Moderate,2,Good,27,Good,10,Good,53,Moderate
+United States of America,Woodhaven,42.132,-83.2374,86,Moderate,2,Good,38,Good,10,Good,86,Moderate
+China,Xushan,30.1697,121.2665,112,Unhealthy for Sensitive Groups,2,Good,44,Good,4,Good,112,Unhealthy for Sensitive Groups
+China,Yancheng,33.3936,120.1339,155,Unhealthy,3,Good,155,Unhealthy,2,Good,151,Unhealthy
+Democratic Republic of the Congo,Yangambi,0.7675,24.4414,121,Unhealthy for Sensitive Groups,4,Good,24,Good,0,Good,121,Unhealthy for Sensitive Groups
+China,Yanji,42.9044,129.5067,69,Moderate,2,Good,48,Good,0,Good,69,Moderate
+United States of America,Yankton,42.8901,-97.3927,47,Good,1,Good,34,Good,3,Good,47,Good
+Germany,Wenden,50.9667,7.8667,69,Moderate,1,Good,34,Good,4,Good,69,Moderate
+Belgium,Wetteren,51,3.8833,64,Moderate,1,Good,32,Good,6,Good,64,Moderate
+Canada,Whitehorse,60.7029,-135.0691,20,Good,1,Good,20,Good,1,Good,10,Good
+Ireland,Wicklow,52.9779,-6.033,38,Good,1,Good,30,Good,3,Good,38,Good
+Switzerland,Wil,47.4667,9.05,59,Moderate,1,Good,27,Good,3,Good,59,Moderate
+Germany,Wildeshausen,52.9,8.4333,67,Moderate,1,Good,30,Good,5,Good,67,Moderate
+United States of America,Williamsport,41.2399,-77.037,75,Moderate,2,Good,13,Good,16,Good,75,Moderate
+United States of America,Fox Lake,42.4239,-88.1844,60,Moderate,2,Good,18,Good,21,Good,60,Moderate
+Denmark,Frederikssund,55.8333,12.0666,36,Good,1,Good,36,Good,0,Good,25,Good
+United States of America,Friendly,38.7601,-76.9642,41,Good,1,Good,30,Good,8,Good,41,Good
+Germany,Fuldatal,51.3484,9.5256,44,Good,1,Good,28,Good,2,Good,44,Good
+Japan,Furano,43.342,142.3832,29,Good,1,Good,26,Good,1,Good,29,Good
+China,Fuzhou,27.9814,116.3577,168,Unhealthy,3,Good,168,Unhealthy,5,Good,99,Moderate
+China,Fuzhou,26.0769,119.2917,168,Unhealthy,3,Good,168,Unhealthy,5,Good,99,Moderate
+United Kingdom of Great Britain and Northern Ireland,Galashiels,55.6194,-2.8033,25,Good,1,Good,25,Good,3,Good,23,Good
+Germany,Gangelt,50.9831,6,41,Good,1,Good,26,Good,4,Good,41,Good
+Germany,Garbsen,52.4183,9.5981,36,Good,0,Good,33,Good,1,Good,36,Good
+Cameroon,Garoua,9.3,13.4,59,Moderate,2,Good,12,Good,0,Good,59,Moderate
+Netherlands,Geertruidenberg,51.7,4.8586,35,Good,0,Good,33,Good,2,Good,35,Good
+Australia,Geraldton,-28.7744,114.6089,29,Good,0,Good,29,Good,0,Good,13,Good
+Germany,Germersheim,49.2167,8.3667,51,Moderate,1,Good,29,Good,3,Good,51,Moderate
+Colombia,Girardot,4.305,-74.8017,103,Unhealthy for Sensitive Groups,4,Good,9,Good,6,Good,103,Unhealthy for Sensitive Groups
+United Kingdom of Great Britain and Northern Ireland,Golborne,53.4758,-2.5943,35,Good,1,Good,30,Good,4,Good,35,Good
+Portugal,Gondomar,41.15,-8.5333,27,Good,0,Good,27,Good,2,Good,21,Good
+Portugal,Gondomar,42.1111,-8.7611,27,Good,0,Good,27,Good,2,Good,21,Good
+India,Govindgarh,24.3785,81.2964,307,Hazardous,1,Good,45,Good,0,Good,307,Hazardous
+United States of America,Hoffman Estates,42.064,-88.1468,61,Moderate,2,Good,26,Good,16,Good,61,Moderate
+United States of America,Holly Springs,35.6526,-78.8399,42,Good,1,Good,42,Good,2,Good,37,Good
+United States of America,Holly Springs,34.1681,-84.4847,42,Good,1,Good,42,Good,2,Good,37,Good
+Germany,Holzminden,51.8297,9.4483,42,Good,0,Good,32,Good,1,Good,42,Good
+Ethiopia,Huruta,8.15,39.35,102,Unhealthy for Sensitive Groups,1,Good,23,Good,0,Good,102,Unhealthy for Sensitive Groups
+Italy,Iglesias,39.3167,8.5333,64,Moderate,1,Good,53,Moderate,1,Good,64,Moderate
+Japan,Iizuka,33.65,130.6833,45,Good,1,Good,45,Good,0,Good,38,Good
+Japan,Suzu,37.4363,137.2605,69,Moderate,1,Good,69,Moderate,1,Good,60,Moderate
+Hungary,Szeged,46.255,20.145,50,Good,1,Good,41,Good,1,Good,50,Good
+Iran (Islamic Republic of),Tafresh,34.6919,50.0131,125,Unhealthy for Sensitive Groups,2,Good,125,Unhealthy for Sensitive Groups,1,Good,82,Moderate
+Philippines,Tagaytay,14.1,120.9333,41,Good,1,Good,25,Good,1,Good,41,Good
+Japan,Tajimi,35.3328,137.1316,52,Moderate,1,Good,34,Good,3,Good,52,Moderate
+Japan,Takahagi,36.7192,140.7167,47,Good,1,Good,47,Good,1,Good,44,Good
+Japan,Takahashi,34.7914,133.6164,36,Good,1,Good,36,Good,3,Good,34,Good
+Philippines,Talacogon,8.4488,125.7869,37,Good,1,Good,19,Good,0,Good,37,Good
+Russian Federation,Taldom,56.7333,37.5333,46,Good,1,Good,27,Good,1,Good,46,Good
+United States of America,Tamiami,25.7556,-80.4016,64,Moderate,1,Good,18,Good,12,Good,64,Moderate
+Israel,Tamra,32.8536,35.1978,92,Moderate,2,Good,52,Moderate,8,Good,92,Moderate
+Philippines,Tantangan,6.6167,124.75,35,Good,1,Good,20,Good,0,Good,35,Good
+Indonesia,Tarogong,-7.215,107.8856,88,Moderate,2,Good,53,Moderate,1,Good,88,Moderate
+Turkey,Tatvan,38.5022,42.2814,45,Good,0,Good,45,Good,0,Good,43,Good
+United Kingdom of Great Britain and Northern Ireland,Yeovil,50.9452,-2.637,58,Moderate,1,Good,24,Good,7,Good,58,Moderate
+China,Yuanping,38.7299,112.7134,143,Unhealthy for Sensitive Groups,2,Good,35,Good,5,Good,143,Unhealthy for Sensitive Groups
+China,Yuncheng,35.0304,110.998,187,Unhealthy,2,Good,36,Good,8,Good,187,Unhealthy
+Belgium,Zaventem,50.8833,4.4667,58,Moderate,1,Good,29,Good,6,Good,58,Moderate
+Belgium,Zemst,50.9722,4.4222,65,Moderate,1,Good,27,Good,8,Good,65,Moderate
+China,Zhaozhou,37.7527,114.7775,73,Moderate,2,Good,66,Moderate,0,Good,73,Moderate
+China,Zhongshan,22.5333,113.35,98,Moderate,3,Good,33,Good,9,Good,98,Moderate
+China,Zhongshan,34.943,105.8771,98,Moderate,3,Good,33,Good,9,Good,98,Moderate
+China,Zhuji,29.7169,120.2314,156,Unhealthy,4,Good,45,Good,10,Good,156,Unhealthy
+Mexico,Zinacantepec,19.2833,-99.7333,163,Unhealthy,4,Good,8,Good,18,Good,163,Unhealthy
+Russian Federation,Zmeinogorsk,51.1667,82.2,35,Good,1,Good,35,Good,0,Good,21,Good
+Italy,Abbiategrasso,45.4,8.9167,69,Moderate,1,Good,37,Good,4,Good,69,Moderate
+Côte d'Ivoire,Abidjan,5.3167,-4.0333,105,Unhealthy for Sensitive Groups,4,Good,15,Good,4,Good,105,Unhealthy for Sensitive Groups
+United States of America,Acworth,34.0566,-84.6716,64,Moderate,2,Good,37,Good,8,Good,64,Moderate
+United States of America,Adelphi,39.0017,-76.9649,54,Moderate,1,Good,32,Good,5,Good,54,Moderate
+United States of America,Alabaster,33.2198,-86.8225,80,Moderate,1,Good,18,Good,10,Good,80,Moderate
+Russian Federation,Alagir,43.0333,44.2333,50,Good,1,Good,36,Good,1,Good,50,Good
+Belgium,Alken,50.8761,5.3078,35,Good,1,Good,25,Good,3,Good,35,Good
+Canada,Alma,48.55,-71.65,55,Moderate,1,Good,27,Good,0,Good,55,Moderate
+Canada,Alma,43.3799,-84.6556,55,Moderate,1,Good,27,Good,0,Good,55,Moderate
+Papua New Guinea,Alotau,-10.3167,150.4333,28,Good,0,Good,28,Good,0,Good,13,Good
+Madagascar,Ambovombe,-25.1764,46.0833,26,Good,0,Good,26,Good,0,Good,20,Good
+China,Anqiu,36.3619,119.1072,107,Unhealthy for Sensitive Groups,2,Good,107,Unhealthy for Sensitive Groups,5,Good,86,Moderate
+Madagascar,Antalaha,-14.8833,50.25,22,Good,0,Good,22,Good,0,Good,20,Good
+United States of America,Antioch,37.9787,-121.796,76,Moderate,3,Good,7,Good,25,Good,76,Moderate
+United States of America,Antioch,42.4742,-88.0721,76,Moderate,3,Good,7,Good,25,Good,76,Moderate
+Ghana,Apam,5.2789,-0.7397,104,Unhealthy for Sensitive Groups,2,Good,14,Good,1,Good,104,Unhealthy for Sensitive Groups
+Russian Federation,Arkadak,51.9333,43.5,28,Good,1,Good,28,Good,1,Good,15,Good
+Russian Federation,Arsk,56.1,49.8833,28,Good,1,Good,28,Good,1,Good,19,Good
+Armenia,Ashtarak,40.2975,44.3617,39,Good,1,Good,29,Good,1,Good,39,Good
+Guatemala,Atescatempa,14.175,-89.7417,104,Unhealthy for Sensitive Groups,3,Good,5,Good,10,Good,104,Unhealthy for Sensitive Groups
+Italy,Atri,42.5833,13.9833,57,Moderate,1,Good,40,Good,3,Good,57,Moderate
+United Kingdom of Great Britain and Northern Ireland,Ayr,55.458,-4.629,29,Good,1,Good,29,Good,2,Good,20,Good
+United Kingdom of Great Britain and Northern Ireland,Ayr,-19.5744,147.4066,29,Good,1,Good,29,Good,2,Good,20,Good
+Netherlands,Baarn,52.2167,5.2833,34,Good,0,Good,34,Good,1,Good,26,Good
+Germany,Bad Langensalza,51.1081,10.6467,32,Good,0,Good,30,Good,1,Good,32,Good
+Pakistan,Bahawalnagar,29.9928,73.2536,500,Hazardous,1,Good,38,Good,1,Good,466,Hazardous
+Thailand,Ban Phai,16.073,102.7362,52,Moderate,0,Good,28,Good,0,Good,52,Moderate
+Philippines,Bangued,17.5965,120.6179,27,Good,0,Good,23,Good,0,Good,27,Good
+Germany,Bargteheide,53.7167,10.2667,38,Good,0,Good,28,Good,2,Good,38,Good
+United States of America,Bartlesville,36.7365,-95.9456,56,Moderate,1,Good,23,Good,6,Good,56,Moderate
+Pakistan,Bat Khela,34.62,71.97,117,Unhealthy for Sensitive Groups,1,Good,117,Unhealthy for Sensitive Groups,1,Good,78,Moderate
+Malaysia,Batu Gajah,4.4667,101.05,92,Moderate,2,Good,57,Moderate,1,Good,92,Moderate
+Italy,Castel Goffredo,45.2981,10.475,124,Unhealthy for Sensitive Groups,2,Good,32,Good,7,Good,124,Unhealthy for Sensitive Groups
+Italy,Catanzaro,38.9,16.6,68,Moderate,2,Good,68,Moderate,6,Good,57,Moderate
+Philippines,Catbalogan,11.7833,124.8833,68,Moderate,1,Good,26,Good,0,Good,68,Moderate
+Ecuador,Cayambe,0.0439,-78.1561,39,Good,1,Good,4,Good,2,Good,39,Good
+Italy,Cesenatico,44.2,12.3944,38,Good,1,Good,36,Good,5,Good,38,Good
+Argentina,Chacabuco,-34.6333,-60.4667,17,Good,0,Good,17,Good,1,Good,17,Good
+Peru,Chachapoyas,-6.2167,-77.85,21,Good,0,Good,4,Good,0,Good,21,Good
+China,Chaoyang,41.5757,120.4486,151,Unhealthy,3,Good,119,Unhealthy for Sensitive Groups,1,Good,151,Unhealthy
+Russian Federation,Cherepanovo,54.2333,83.3667,38,Good,1,Good,38,Good,0,Good,35,Good
+Russian Federation,Cherkessk,44.2222,42.0575,49,Good,1,Good,40,Good,0,Good,49,Good
+Mexico,Chilpancingo,17.55,-99.5,72,Moderate,2,Good,4,Good,5,Good,72,Moderate
+United States of America,Cimarron Hills,38.8597,-104.6995,73,Moderate,1,Good,32,Good,2,Good,73,Moderate
+Brazil,Coari,-4.085,-63.1408,46,Good,1,Good,2,Good,0,Good,46,Good
+United Kingdom of Great Britain and Northern Ireland,Coatbridge,55.8625,-4.0266,35,Good,1,Good,12,Good,9,Good,35,Good
+Ireland,Cobh,51.851,-8.2967,24,Good,0,Good,24,Good,1,Good,16,Good
+Brazil,Colatina,-19.5389,-40.6308,45,Good,1,Good,14,Good,2,Good,45,Good
+Dominican Republic,Comendador,18.8833,-71.7,65,Moderate,1,Good,12,Good,6,Good,65,Moderate
+Italy,Como,45.8103,9.0861,112,Unhealthy for Sensitive Groups,1,Good,34,Good,4,Good,112,Unhealthy for Sensitive Groups
+Brazil,Conde,-11.8139,-37.6108,19,Good,0,Good,19,Good,0,Good,11,Good
+United Kingdom of Great Britain and Northern Ireland,Consett,54.85,-1.83,31,Good,0,Good,31,Good,2,Good,22,Good
+United States of America,Cooper City,26.0463,-80.2862,152,Unhealthy,4,Good,4,Good,19,Good,152,Unhealthy
+United States of America,Copperas Cove,31.1192,-97.914,31,Good,1,Good,21,Good,1,Good,31,Good
+Argentina,Corrientes,-27.4833,-58.8167,13,Good,1,Good,12,Good,0,Good,13,Good
+Italy,Crevalcore,44.7167,11.15,103,Unhealthy for Sensitive Groups,2,Good,28,Good,9,Good,103,Unhealthy for Sensitive Groups
+Azerbaijan,Culfa,38.9558,45.6308,52,Moderate,1,Good,35,Good,0,Good,52,Moderate
+Spain,Culleredo,43.2883,-8.3894,30,Good,0,Good,30,Good,2,Good,13,Good
+India,Cuncolim,15.1773,73.9939,73,Moderate,0,Good,25,Good,0,Good,73,Moderate
+Brazil,Curvelo,-18.7558,-44.4308,42,Good,1,Good,2,Good,4,Good,42,Good
+Germany,Cuxhaven,53.8611,8.6944,35,Good,0,Good,35,Good,0,Good,30,Good
+United States of America,Cypress Lake,26.5392,-81.8999,46,Good,1,Good,25,Good,5,Good,46,Good
+Guinea,Dalaba,10.656,-12.272,63,Moderate,2,Good,13,Good,0,Good,63,Moderate
+France,Beaune,47.025,4.8397,39,Good,1,Good,26,Good,1,Good,39,Good
+United States of America,Bedford,52.135,-0.47,56,Moderate,1,Good,18,Good,6,Good,56,Moderate
+United States of America,Bedford,32.8464,-97.135,56,Moderate,1,Good,18,Good,6,Good,56,Moderate
+United States of America,Bedford,42.9406,-71.5302,56,Moderate,1,Good,18,Good,6,Good,56,Moderate
+United States of America,Bedford,41.225,-73.6673,56,Moderate,1,Good,18,Good,6,Good,56,Moderate
+United States of America,Bedford,42.4969,-71.2783,56,Moderate,1,Good,18,Good,6,Good,56,Moderate
+United States of America,Bedford,38.8602,-86.4895,56,Moderate,1,Good,18,Good,6,Good,56,Moderate
+United States of America,Bedford,41.3919,-81.536,56,Moderate,1,Good,18,Good,6,Good,56,Moderate
+Ghana,Begoro,6.3833,-0.3833,105,Unhealthy for Sensitive Groups,2,Good,13,Good,2,Good,105,Unhealthy for Sensitive Groups
+China,Beipiao,41.802,120.7621,93,Moderate,2,Good,90,Moderate,1,Good,93,Moderate
+Brazil,Bela Cruz,-3.0508,-40.1678,45,Good,0,Good,22,Good,0,Good,45,Good
+Bolivia (Plurinational State of),Bermejo,-22.7322,-64.3425,54,Moderate,1,Good,8,Good,1,Good,54,Moderate
+Germany,Bernburg,51.8,11.7333,36,Good,0,Good,29,Good,2,Good,36,Good
+United States of America,Berwick,41.0555,-76.2492,50,Good,1,Good,35,Good,5,Good,50,Good
+India,Betma,22.68,75.62,153,Unhealthy,1,Good,34,Good,0,Good,153,Unhealthy
+United States of America,Beverly,42.5681,-70.8627,48,Good,1,Good,36,Good,5,Good,48,Good
+Russian Federation,Bezhetsk,57.7667,36.7,24,Good,0,Good,24,Good,0,Good,24,Good
+Pakistan,Bhalwal,32.2656,72.8994,179,Unhealthy,3,Good,179,Unhealthy,2,Good,166,Unhealthy
+India,Bhiwandi,19.2967,73.0631,151,Unhealthy,1,Good,26,Good,1,Good,151,Unhealthy
+Indonesia,Binjai,3.5986,98.4803,92,Moderate,2,Good,45,Good,0,Good,92,Moderate
+Russian Federation,Baksan,43.6825,43.5339,48,Good,1,Good,39,Good,1,Good,48,Good
+Colombia,Baranoa,10.8,-74.9167,104,Unhealthy for Sensitive Groups,1,Good,16,Good,2,Good,104,Unhealthy for Sensitive Groups
+Philippines,Baras,14.5167,121.2667,51,Moderate,1,Good,27,Good,1,Good,51,Moderate
+Philippines,Baras,13.6667,124.3667,51,Moderate,1,Good,27,Good,1,Good,51,Moderate
+Thailand,Nong Bua,15.8647,100.5858,38,Good,0,Good,20,Good,0,Good,38,Good
+Netherlands,Noordwijkerhout,52.2667,4.5,41,Good,1,Good,27,Good,5,Good,41,Good
+United States of America,Northbridge,42.13,-71.6547,47,Good,1,Good,46,Good,2,Good,47,Good
+United Kingdom of Great Britain and Northern Ireland,Norwich,52.6286,1.2928,29,Good,0,Good,29,Good,3,Good,18,Good
+United Kingdom of Great Britain and Northern Ireland,Norwich,41.5495,-72.0882,29,Good,0,Good,29,Good,3,Good,18,Good
+United Kingdom of Great Britain and Northern Ireland,Norwich,42.9833,-80.6,29,Good,0,Good,29,Good,3,Good,18,Good
+Netherlands,Nuenen,51.4733,5.5467,37,Good,1,Good,32,Good,3,Good,37,Good
+Chile,Nueva Imperial,-38.7433,-72.95,61,Moderate,2,Good,2,Good,9,Good,61,Moderate
+Mexico,Nuevo Casas Grandes,30.4167,-107.9167,46,Good,1,Good,17,Good,2,Good,46,Good
+United States of America,Oak Lawn,41.7139,-87.7528,79,Moderate,2,Good,13,Good,27,Good,79,Moderate
+United States of America,Oakdale,44.9876,-92.9641,53,Moderate,1,Good,24,Good,9,Good,53,Moderate
+United States of America,Oakdale,37.7618,-120.8468,53,Moderate,1,Good,24,Good,9,Good,53,Moderate
+Japan,Odawara,35.25,139.15,39,Good,1,Good,38,Good,2,Good,39,Good
+Republic of North Macedonia,Ohrid,41.1169,20.8019,42,Good,1,Good,41,Good,0,Good,42,Good
+Poland,Olecko,54.0333,22.5,47,Good,1,Good,36,Good,0,Good,47,Good
+Germany,Olfen,51.7167,7.3833,32,Good,1,Good,27,Good,4,Good,32,Good
+Brazil,Olindina,-11.3669,-38.3328,25,Good,0,Good,6,Good,1,Good,25,Good
+United States of America,Orem,40.2981,-111.6994,73,Moderate,2,Good,26,Good,7,Good,73,Moderate
+United States of America,Orinda,37.8808,-122.179,52,Moderate,1,Good,22,Good,11,Good,52,Moderate
+Guatemala,Ostuncalco,14.8693,-91.6211,94,Moderate,3,Good,9,Good,11,Good,94,Moderate
+Nigeria,Oyo,7.85,3.933,80,Moderate,2,Good,22,Good,1,Good,80,Moderate
+Italy,Pachino,36.7167,15.1,48,Good,1,Good,45,Good,0,Good,48,Good
+India,Padra,22.23,73.08,156,Unhealthy,1,Good,33,Good,0,Good,156,Unhealthy
+France,Paita,-5.0911,-81.1064,27,Good,0,Good,27,Good,0,Good,10,Good
+Philippines,Palo,11.1583,124.9917,55,Moderate,1,Good,20,Good,0,Good,55,Moderate
+China,Panshi,42.9392,126.0561,76,Moderate,3,Good,32,Good,2,Good,76,Moderate
+Brazil,Paragominas,-2.9958,-47.3528,36,Good,1,Good,2,Good,0,Good,36,Good
+Peru,Paramonga,-10.6744,-77.8186,41,Good,1,Good,18,Good,1,Good,41,Good
+United States of America,Parkville,39.3832,-76.5519,56,Moderate,1,Good,44,Good,4,Good,56,Moderate
+United States of America,Pasadena,29.6575,-95.1498,58,Moderate,1,Good,43,Good,5,Good,58,Moderate
+United States of America,Pasadena,34.1597,-118.139,58,Moderate,1,Good,43,Good,5,Good,58,Moderate
+United States of America,Pasadena,39.1552,-76.5537,58,Moderate,1,Good,43,Good,5,Good,58,Moderate
+United States of America,Pataskala,40.011,-82.7155,45,Good,1,Good,32,Good,7,Good,45,Good
+Kazakhstan,Pavlodar,52.3,76.95,50,Good,1,Good,41,Good,0,Good,50,Good
+United States of America,Pelham,40.9,-73.8063,46,Good,1,Good,46,Good,2,Good,31,Good
+United States of America,Pelham,33.3114,-86.7573,46,Good,1,Good,46,Good,2,Good,31,Good
+United States of America,Pelham,43.0333,-79.3333,46,Good,1,Good,46,Good,2,Good,31,Good
+United States of America,Pelham,42.7335,-71.324,46,Good,1,Good,46,Good,2,Good,31,Good
+Mexico,Perote,19.562,-97.242,77,Moderate,3,Good,7,Good,8,Good,77,Moderate
+Serbia,Petrovaradin,45.25,19.8667,63,Moderate,1,Good,33,Good,1,Good,63,Moderate
+Thailand,Phatthalung,7.5,100,59,Moderate,1,Good,27,Good,0,Good,59,Moderate
+Thailand,Phetchaburi,13.1119,99.9458,35,Good,0,Good,17,Good,0,Good,35,Good
+India,Phillaur,31.03,75.78,444,Hazardous,2,Good,111,Unhealthy for Sensitive Groups,1,Good,391,Hazardous
+Egypt,Rosetta,31.4044,30.4164,60,Moderate,2,Good,60,Moderate,3,Good,55,Moderate
+Italy,Rossano,39.5667,16.6333,48,Good,1,Good,48,Good,0,Good,12,Good
+Russian Federation,Rostov,47.2333,39.7,32,Good,1,Good,32,Good,0,Good,26,Good
+Russian Federation,Rostov,57.1833,39.4167,32,Good,1,Good,32,Good,0,Good,26,Good
+United Kingdom of Great Britain and Northern Ireland,Royton,53.566,-2.121,56,Moderate,0,Good,32,Good,1,Good,56,Moderate
+Germany,Rudolstadt,50.7169,11.3275,32,Good,1,Good,32,Good,1,Good,30,Good
+Czechia,Rumburk,50.9516,14.5571,29,Good,0,Good,29,Good,2,Good,29,Good
+Malawi,Rumphi,-11.0167,33.8667,28,Good,0,Good,19,Good,0,Good,28,Good
+Brazil,Ruy Barbosa,-12.2839,-40.4939,18,Good,0,Good,8,Good,0,Good,18,Good
+Japan,Sakurai,34.5167,135.85,40,Good,1,Good,40,Good,2,Good,34,Good
+United Kingdom of Great Britain and Northern Ireland,Salford,53.483,-2.2931,58,Moderate,0,Good,32,Good,1,Good,58,Moderate
+Brazil,Salvador,-12.9747,-38.4767,30,Good,0,Good,16,Good,1,Good,30,Good
+Brazil,Salvador,20.2094,-75.2231,30,Good,0,Good,16,Good,1,Good,30,Good
+Turkey,Samsun,41.2903,36.3336,36,Good,1,Good,36,Good,0,Good,30,Good
+Indonesia,Prabumulih,-3.4328,104.2356,49,Good,1,Good,30,Good,0,Good,49,Good
+Brazil,Presidente Prudente,-22.1256,-51.3889,32,Good,1,Good,14,Good,1,Good,32,Good
+United States of America,Prichard,30.7735,-88.1301,28,Good,1,Good,22,Good,4,Good,28,Good
+Canada,Prince George,53.9169,-122.7494,21,Good,1,Good,21,Good,1,Good,13,Good
+Peru,Pucallpa,-8.3833,-74.55,30,Good,1,Good,1,Good,0,Good,30,Good
+Spain,Puertollano,38.6833,-4.1167,32,Good,1,Good,30,Good,1,Good,32,Good
+Israel,Qiryat Gat,31.6061,34.7717,80,Moderate,1,Good,62,Moderate,4,Good,80,Moderate
+Chile,Quillota,-32.8667,-71.25,182,Unhealthy,14,Good,1,Good,23,Good,182,Unhealthy
+India,Rafiganj,24.82,84.65,356,Hazardous,1,Good,60,Moderate,0,Good,284,Very Unhealthy
+United States of America,Rahway,40.6077,-74.2807,62,Moderate,1,Good,44,Good,5,Good,62,Moderate
+India,Phulpur,24.955,90.3573,226,Very Unhealthy,1,Good,48,Good,1,Good,226,Very Unhealthy
+India,Phulpur,25.55,82.1,226,Very Unhealthy,1,Good,48,Good,1,Good,226,Very Unhealthy
+Brazil,Picos,15.083,-23.632,16,Good,0,Good,12,Good,0,Good,16,Good
+Brazil,Picos,-7.0769,-41.4669,16,Good,0,Good,12,Good,0,Good,16,Good
+Germany,Pirmasens,49.2,7.6,30,Good,1,Good,27,Good,2,Good,30,Good
+United States of America,Plum,40.5024,-79.7495,55,Moderate,2,Good,26,Good,12,Good,55,Moderate
+Italy,Policoro,40.2,16.6667,46,Good,1,Good,46,Good,0,Good,14,Good
+Sierra Leone,Port Loko,8.7667,-12.7875,48,Good,1,Good,16,Good,0,Good,48,Good
+United States of America,Poughkeepsie,41.695,-73.9211,43,Good,1,Good,43,Good,2,Good,39,Good
+United States of America,Randallstown,39.3723,-76.8024,52,Moderate,1,Good,44,Good,4,Good,52,Moderate
+Thailand,Ranong,9.9619,98.6389,36,Good,0,Good,16,Good,0,Good,36,Good
+Germany,Rathenow,52.6,12.3333,39,Good,0,Good,39,Good,0,Good,23,Good
+Russian Federation,Reutov,55.7622,37.8567,58,Moderate,1,Good,25,Good,9,Good,58,Moderate
+United States of America,Richardson,32.9716,-96.7093,56,Moderate,1,Good,21,Good,6,Good,56,Moderate
+United States of America,Richmond,37.5295,-77.4756,76,Moderate,2,Good,15,Good,17,Good,76,Moderate
+United States of America,Richmond,49.1667,-123.1333,76,Moderate,2,Good,15,Good,17,Good,76,Moderate
+United States of America,Richmond,37.9477,-122.3389,76,Moderate,2,Good,15,Good,17,Good,76,Moderate
+United States of America,Richmond,-41.3333,173.1833,76,Moderate,2,Good,15,Good,17,Good,76,Moderate
+United States of America,Richmond,39.8318,-84.8905,76,Moderate,2,Good,15,Good,17,Good,76,Moderate
+United States of America,Richmond,37.7307,-84.2925,76,Moderate,2,Good,15,Good,17,Good,76,Moderate
+United States of America,Richmond,51.456,-0.301,76,Moderate,2,Good,15,Good,17,Good,76,Moderate
+United States of America,Richmond,29.5824,-95.7563,76,Moderate,2,Good,15,Good,17,Good,76,Moderate
+United States of America,Richmond,-33.5983,150.7511,76,Moderate,2,Good,15,Good,17,Good,76,Moderate
+United States of America,Richmond,-20.7305,143.1425,76,Moderate,2,Good,15,Good,17,Good,76,Moderate
+Peru,Rioja,-6.05,-77.1417,25,Good,1,Good,3,Good,0,Good,25,Good
+France,Riom,45.8936,3.1125,40,Good,1,Good,30,Good,1,Good,40,Good
+Italy,Rocca Priora,41.7833,12.7667,47,Good,1,Good,47,Good,2,Good,27,Good
+France,Rodez,44.3506,2.575,42,Good,1,Good,31,Good,1,Good,42,Good
+Philippines,Romblon,12.55,122.28,50,Good,1,Good,23,Good,0,Good,50,Good
+United States of America,Daly City,37.6862,-122.4685,62,Moderate,1,Good,18,Good,13,Good,62,Moderate
+Brazil,Delmiro Gouveia,-9.3858,-37.9958,25,Good,0,Good,9,Good,1,Good,25,Good
+Russian Federation,Desnogorsk,54.15,33.2833,34,Good,1,Good,34,Good,0,Good,10,Good
+Turkey,Develi,38.3886,35.4925,46,Good,1,Good,29,Good,0,Good,46,Good
+Ukraine,Dniprorudne,47.3907,35.0027,39,Good,1,Good,39,Good,0,Good,12,Good
+Benin,Dogbo,6.8167,1.7833,101,Unhealthy for Sensitive Groups,3,Good,18,Good,2,Good,101,Unhealthy for Sensitive Groups
+United States of America,Dumas,35.8613,-101.9642,60,Moderate,1,Good,22,Good,3,Good,60,Moderate
+United States of America,Dyersburg,36.0465,-89.3777,93,Moderate,1,Good,24,Good,5,Good,93,Moderate
+United States of America,Eatontown,40.2913,-74.0558,28,Good,1,Good,28,Good,8,Good,25,Good
+United States of America,El Campo,29.2,-96.2723,39,Good,1,Good,22,Good,1,Good,39,Good
+United States of America,Ellicott City,39.2774,-76.8345,44,Good,1,Good,27,Good,10,Good,44,Good
+Japan,Ena,35.4492,137.4128,42,Good,1,Good,42,Good,0,Good,12,Good
+Italy,Giussano,45.7,9.2167,62,Moderate,1,Good,32,Good,4,Good,62,Moderate
+United Kingdom of Great Britain and Northern Ireland,Glenrothes,56.198,-3.178,35,Good,1,Good,22,Good,6,Good,35,Good
+United Kingdom of Great Britain and Northern Ireland,Glossop,53.443,-1.949,27,Good,1,Good,25,Good,3,Good,27,Good
+Namibia,Gobabis,-22.4333,18.9667,19,Good,0,Good,18,Good,0,Good,19,Good
+India,Gobindpur,24.782,85.6943,175,Unhealthy,1,Good,51,Moderate,1,Good,175,Unhealthy
+Spain,Godella,39.52,-0.4114,33,Good,1,Good,33,Good,1,Good,28,Good
+Brazil,Goiatuba,-18.0128,-49.3569,37,Good,1,Good,3,Good,3,Good,37,Good
+Netherlands,Goirle,51.5167,5.0667,30,Good,0,Good,30,Good,2,Good,27,Good
+United States of America,Golden Glades,25.9129,-80.2013,61,Moderate,1,Good,10,Good,16,Good,61,Moderate
+Albania,Gramsh,40.8667,20.1833,68,Moderate,1,Good,39,Good,1,Good,68,Moderate
+United States of America,Granger,41.7374,-86.1348,57,Moderate,2,Good,21,Good,11,Good,57,Moderate
+United States of America,Grants Pass,42.4333,-123.3317,29,Good,1,Good,29,Good,2,Good,27,Good
+,Granville,48.8381,-1.5869,30,Good,1,Good,30,Good,3,Good,25,Good
+Mexico,Guasave,25.5744,-108.4706,35,Good,1,Good,22,Good,1,Good,35,Good
+Germany,Guben,51.9533,14.7167,37,Good,1,Good,21,Good,4,Good,37,Good
+Cameroon,Guider,9.9342,13.9486,76,Moderate,3,Good,8,Good,1,Good,76,Moderate
+China,Guilin,25.2819,110.2864,90,Moderate,3,Good,46,Good,3,Good,90,Moderate
+France,Guipavas,48.4336,-4.4008,34,Good,1,Good,26,Good,9,Good,34,Good
+United States of America,Fort Walton Beach,30.4255,-86.6222,65,Moderate,1,Good,30,Good,1,Good,65,Moderate
+France,Fosses,49.0981,2.5067,29,Good,0,Good,28,Good,2,Good,29,Good
+United States of America,Fountain Hills,33.6073,-111.7398,37,Good,1,Good,27,Good,8,Good,37,Good
+United States of America,Fountain,38.6886,-104.6829,72,Moderate,1,Good,29,Good,3,Good,72,Moderate
+Brazil,Francisco Morato,-23.2817,-46.7425,169,Unhealthy,7,Good,0,Good,21,Good,169,Unhealthy
+Germany,Freiberg,50.9119,13.3428,36,Good,1,Good,25,Good,3,Good,36,Good
+United States of America,Front Royal,38.926,-78.1838,46,Good,1,Good,37,Good,2,Good,46,Good
+Germany,Gaggenau,48.8039,8.3194,29,Good,0,Good,29,Good,2,Good,26,Good
+Israel,Gan Yavne,31.7886,34.7053,77,Moderate,1,Good,43,Good,6,Good,77,Moderate
+Italy,Gela,37.0667,14.25,53,Moderate,1,Good,38,Good,2,Good,53,Moderate
+Netherlands,Gennep,51.7,5.9667,30,Good,0,Good,25,Good,3,Good,30,Good
+Germany,Genthin,52.4,12.1667,31,Good,0,Good,30,Good,1,Good,31,Good
+Guyana,Georgetown,6.8058,-58.1508,27,Good,0,Good,19,Good,0,Good,27,Good
+Guyana,Georgetown,-7.9286,-14.4119,27,Good,0,Good,19,Good,0,Good,27,Good
+Guyana,Georgetown,30.666,-97.6966,27,Good,0,Good,19,Good,0,Good,27,Good
+Guyana,Georgetown,38.2247,-84.5487,27,Good,0,Good,19,Good,0,Good,27,Good
+Guyana,Georgetown,31.9849,-81.226,27,Good,0,Good,19,Good,0,Good,27,Good
+Guyana,Georgetown,-18.3,143.55,27,Good,0,Good,19,Good,0,Good,27,Good
+Germany,Gera,50.8806,12.0833,30,Good,0,Good,28,Good,2,Good,30,Good
+United States of America,Lake Jackson,29.0516,-95.4521,25,Good,0,Good,24,Good,2,Good,25,Good
+United States of America,Lakeside,30.1356,-81.7674,57,Moderate,2,Good,22,Good,14,Good,57,Moderate
+United States of America,Lakeside,32.856,-116.904,57,Moderate,2,Good,22,Good,14,Good,57,Moderate
+United States of America,Lakeside,37.6132,-77.4768,57,Moderate,2,Good,22,Good,14,Good,57,Moderate
+Thailand,Lam Luk Ka,13.9297,100.7375,66,Moderate,1,Good,28,Good,1,Good,66,Moderate
+Netherlands,Leusden,52.1333,5.4333,33,Good,0,Good,33,Good,1,Good,26,Good
+United Kingdom of Great Britain and Northern Ireland,Lewes,50.8747,0.0117,37,Good,1,Good,12,Good,13,Good,37,Good
+Philippines,Lianga,8.633,126.0932,50,Good,1,Good,20,Good,0,Good,50,Good
+France,Libourne,44.92,-0.24,46,Good,1,Good,26,Good,2,Good,46,Good
+Czechia,Litovel,49.7012,17.0762,49,Good,1,Good,24,Good,2,Good,49,Good
+Belgium,Lokeren,51.1,3.9833,31,Good,0,Good,31,Good,2,Good,31,Good
+Belgium,Londerzeel,51,4.3,34,Good,0,Good,29,Good,3,Good,34,Good
+Senegal,Louga,15.6167,-16.2167,176,Unhealthy,2,Good,21,Good,3,Good,176,Unhealthy
+Poland,Lubin,51.4,16.2,35,Good,1,Good,20,Good,3,Good,35,Good
+Poland,Lublin,51.25,22.5667,32,Good,1,Good,32,Good,1,Good,28,Good
+Philippines,Lucena,13.9333,121.6167,32,Good,1,Good,29,Good,0,Good,32,Good
+Philippines,Lucena,37.4,-4.4833,32,Good,1,Good,29,Good,0,Good,32,Good
+Philippines,Lucena,10.8833,122.6,32,Good,1,Good,29,Good,0,Good,32,Good
+Philippines,Lucena,-6.9,-34.8689,32,Good,1,Good,29,Good,0,Good,32,Good
+Lesotho,Mafeteng,-29.8167,27.25,117,Unhealthy for Sensitive Groups,4,Good,14,Good,7,Good,117,Unhealthy for Sensitive Groups
+United States of America,Magnolia,33.2775,-93.2261,56,Moderate,1,Good,25,Good,2,Good,56,Moderate
+India,Maihar,24.262,80.761,171,Unhealthy,1,Good,36,Good,0,Good,171,Unhealthy
+United States of America,Maitland,28.6295,-81.3718,53,Moderate,1,Good,18,Good,14,Good,53,Moderate
+United States of America,Maitland,-32.7167,151.55,53,Moderate,1,Good,18,Good,14,Good,53,Moderate
+France,Malakoff,48.8169,2.2944,40,Good,1,Good,26,Good,3,Good,40,Good
+Benin,Malanville,11.8667,3.3833,34,Good,1,Good,18,Good,1,Good,34,Good
+Italy,Malnate,45.8,8.8833,69,Moderate,1,Good,22,Good,6,Good,69,Moderate
+Democratic Republic of the Congo,Manono,-7.2947,27.4545,74,Moderate,2,Good,23,Good,1,Good,74,Moderate
+Venezuela (Bolivarian Republic of),Maracaibo,10.6333,-71.6333,118,Unhealthy for Sensitive Groups,1,Good,17,Good,4,Good,118,Unhealthy for Sensitive Groups
+Germany,Hagen,51.3667,7.4833,30,Good,0,Good,30,Good,1,Good,25,Good
+France,Halluin,50.7836,3.1256,35,Good,0,Good,28,Good,2,Good,35,Good
+Germany,Hamburg,53.55,10,34,Good,0,Good,28,Good,2,Good,34,Good
+Germany,Hamburg,42.7394,-78.8581,34,Good,0,Good,28,Good,2,Good,34,Good
+United States of America,Hanahan,32.9302,-80.0027,73,Moderate,2,Good,35,Good,8,Good,73,Moderate
+Bulgaria,Harmanli,41.9333,25.9,40,Good,1,Good,40,Good,1,Good,24,Good
+Pakistan,Harunabad,29.613,73.1409,500,Hazardous,1,Good,43,Good,0,Good,443,Hazardous
+Germany,Hattingen,51.3992,7.1858,28,Good,0,Good,27,Good,2,Good,28,Good
+United States of America,Hauppauge,40.8211,-73.2109,52,Moderate,1,Good,27,Good,12,Good,52,Moderate
+United States of America,Hayward,37.6328,-122.0766,70,Moderate,2,Good,20,Good,20,Good,70,Moderate
+Finland,Heinola,61.2,26.0333,33,Good,0,Good,33,Good,0,Good,5,Good
+Japan,Hekinan,34.8847,136.9934,59,Moderate,1,Good,59,Moderate,1,Good,23,Good
+Germany,Hemsbach,49.5903,8.6564,30,Good,0,Good,30,Good,1,Good,24,Good
+China,Hengyang,26.8968,112.5857,169,Unhealthy,4,Good,169,Unhealthy,3,Good,150,Unhealthy
+United States of America,Hoboken,40.7452,-74.0281,61,Moderate,1,Good,27,Good,11,Good,61,Moderate
+United States of America,Hoboken,51.1667,4.3667,61,Moderate,1,Good,27,Good,11,Good,61,Moderate
+Somalia,Hobyo,5.3514,48.5256,58,Moderate,0,Good,21,Good,0,Good,58,Moderate
+Solomon Islands,Honiara,-9.4319,159.9556,18,Good,0,Good,18,Good,0,Good,6,Good
+Paraguay,Horqueta,-23.3442,-57.0436,20,Good,0,Good,20,Good,0,Good,20,Good
+Armenia,Hrazdan,40.5,44.7667,31,Good,0,Good,31,Good,0,Good,30,Good
+China,Hsinchu,24.8167,120.9833,138,Unhealthy for Sensitive Groups,3,Good,138,Unhealthy for Sensitive Groups,2,Good,112,Unhealthy for Sensitive Groups
+Peru,Huaura,-11.1,-77.6,39,Good,1,Good,19,Good,1,Good,39,Good
+Zimbabwe,Hwange,-18.3647,26.5,44,Good,0,Good,17,Good,0,Good,44,Good
+Japan,Ichihara,35.4981,140.1154,74,Moderate,1,Good,74,Moderate,1,Good,35,Good
+India,Khed,17.7189,73.3969,95,Moderate,0,Good,22,Good,0,Good,95,Moderate
+Russian Federation,Khimki,55.8892,37.445,40,Good,1,Good,30,Good,8,Good,40,Good
+Ukraine,Khotyn,48.5078,26.486,75,Moderate,1,Good,37,Good,1,Good,75,Moderate
+Turkey,Kilis,36.7167,37.1167,64,Moderate,1,Good,41,Good,0,Good,64,Moderate
+United States of America,Killeen,31.0753,-97.7297,40,Good,0,Good,21,Good,1,Good,40,Good
+Austria,Klosterneuburg,48.3042,16.3167,59,Moderate,1,Good,30,Good,3,Good,59,Moderate
+Croatia,Knin,44.0414,16.1986,48,Good,1,Good,48,Good,0,Good,35,Good
+Papua New Guinea,Kokopo,-4.35,152.2736,104,Unhealthy for Sensitive Groups,0,Good,22,Good,0,Good,104,Unhealthy for Sensitive Groups
+Russian Federation,Kola,22.43,87.87,30,Good,1,Good,30,Good,0,Good,10,Good
+Russian Federation,Kola,68.8833,33.0833,30,Good,1,Good,30,Good,0,Good,10,Good
+Russian Federation,Kotelnikovo,47.6333,43.15,39,Good,1,Good,39,Good,0,Good,20,Good
+Chad,Koumra,8.91,17.55,59,Moderate,2,Good,6,Good,0,Good,59,Moderate
+Russian Federation,Krasnovishersk,60.4167,57.1,29,Good,1,Good,28,Good,0,Good,29,Good
+Russian Federation,Krasnyy Yar,46.5331,48.3456,34,Good,1,Good,34,Good,1,Good,24,Good
+Russian Federation,Krasnyy Yar,53.3239,69.2525,34,Good,1,Good,34,Good,1,Good,24,Good
+Germany,Kronach,50.2411,11.3281,36,Good,1,Good,26,Good,2,Good,36,Good
+Germany,Kronberg,50.1833,8.5,30,Good,0,Good,30,Good,1,Good,27,Good
+Russian Federation,Kulebaki,55.4167,42.5333,48,Good,1,Good,33,Good,1,Good,48,Good
+Japan,Kushiro,42.9833,144.3833,33,Good,1,Good,33,Good,0,Good,9,Good
+Japan,Kushiro,42.9961,144.4661,33,Good,1,Good,33,Good,0,Good,9,Good
+Mexico,La Barca,20.2833,-102.5667,37,Good,1,Good,8,Good,3,Good,37,Good
+France,La Crau,43.1497,6.0742,60,Moderate,1,Good,30,Good,6,Good,60,Moderate
+Honduras,La Entrada,15.05,-88.7333,55,Moderate,2,Good,5,Good,4,Good,55,Moderate
+United States of America,La Presa,32.711,-117.0027,58,Moderate,2,Good,14,Good,19,Good,58,Moderate
+Germany,Ilsede,52.2667,10.1833,41,Good,0,Good,28,Good,2,Good,41,Good
+Brazil,Imbituba,-28.24,-48.67,31,Good,1,Good,15,Good,1,Good,31,Good
+Brazil,Imbituva,-25.23,-50.6044,24,Good,1,Good,8,Good,0,Good,24,Good
+Japan,Inagi,35.6379,139.5046,78,Moderate,1,Good,78,Moderate,3,Good,51,Moderate
+Spain,Inca,39.7167,2.9167,43,Good,1,Good,43,Good,0,Good,30,Good
+India,Indore,22.7167,75.8472,150,Unhealthy,1,Good,30,Good,0,Good,150,Unhealthy
+United Kingdom of Great Britain and Northern Ireland,Inverurie,57.28,-2.38,31,Good,1,Good,31,Good,2,Good,25,Good
+Japan,Ishigaki,24.3406,124.1556,116,Unhealthy for Sensitive Groups,2,Good,116,Unhealthy for Sensitive Groups,0,Good,64,Moderate
+Spain,Jaen,15.3392,120.9069,36,Good,1,Good,17,Good,3,Good,36,Good
+Mexico,Jilotepec,19.9519,-99.5328,95,Moderate,2,Good,9,Good,9,Good,95,Moderate
+Mexico,Jilotepec,19.6113,-96.9224,95,Moderate,2,Good,9,Good,9,Good,95,Moderate
+United Republic of Tanzania,Kabanga,-2.9022,30.4986,171,Unhealthy,6,Good,10,Good,3,Good,171,Unhealthy

@@ -1,0 +1,101 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 450,
+  "repeat": {
+    "row": ["AQI Value", "Ozone AQI Value", "PM AQI Value"],
+    "column": ["PM AQI Value", "Ozone AQI Value", "AQI Value"]
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/W10/data/data.csv"
+  },
+  "spec": {
+    "layer": [
+      {
+        "params": [
+          {
+            "name": "brush",
+            "select": { "type": "interval", "resolve": "global" }
+          },
+          {
+            "name": "org",
+            "select": { "type": "point", "fields": ["AQI Category"] },
+            "bind": {
+              "input": "select",
+              "options": [
+                null,
+                "Good",
+                "Hazardous",
+                "Moderate",
+                "Unhealthy",
+                "Unhealthy for Sensitive Groups",
+                "Very Unhealthy"
+              ],
+              "labels": [
+                "Show All",
+                "Good",
+                "Hazardous",
+                "Moderate",
+                "Unhealthy",
+                "Unhealthy for Sensitive Groups",
+                "Very Unhealthy"
+              ],
+              "name": "AQI Category: "
+            }
+          }
+        ],
+        "mark": { "type": "point" },
+        "encoding": {
+          "x": {
+            "field": { "repeat": "column" },
+            "type": "quantitative",
+            "scale": { "domain": [0, 500] }
+          },
+          "y": {
+            "field": { "repeat": "row" },
+            "type": "quantitative",
+            "scale": { "domain": [0, 500] }
+          },
+          "color": {
+            "condition": {
+              "param": "org",
+              "field": "AQI Category",
+              "type": "nominal"
+            },
+            "value": "grey"
+          },
+          "tooltip": [
+            { "field": "City", "type": "nominal" },
+            { "field": "Country", "type": "nominal" },
+            { "field": "AQI Category", "type": "nominal" },
+            { "field": "AQI Value", "type": "quantitative" },
+            { "field": "Ozone AQI Value", "type": "quantitative" },
+            { "field": "PM AQI Value", "type": "quantitative" }
+          ]
+        }
+      },
+      {
+        "mark": {
+          "type": "text",
+          "color": "black",
+          "align": "right",
+          "baseline": "middle",
+          "dx": 4,
+          "fontSize": 9,
+          "fontStyle": "italic"
+        },
+        "encoding": {
+          "text": { "field": "AQI Category", "type": "nominal" },
+          "color": { "value": "black" },
+          "opacity": {
+            "condition": {
+              "test": "datum['AQI Category'] == 'Moderate'",
+              "value": 1
+            },
+            "value": 0
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,13 +1,14 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 650,
-  "height": 450,
-  "title": "Deaths by risk factors, 2019",
+  "width": 630,
+  "height": 400,
+  "title": {
+    "text": "Deaths by risk factors, 2019",
+    "fontSize": 18,
+    "anchor": "middle"
+  },
   "data": {
     "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/DV2/data/Death%20by%20factor.csv"
-  },
-  "mark": {
-    "type": "bar"
   },
   "encoding": {
     "x": {
@@ -15,12 +16,58 @@
       "type": "quantitative",
       "axis": false
     },
-    "y": { "field": "Factors", "type": "nominal", "sort": "-x", "title": "" },
+    "y": {
+      "field": "Factors",
+      "type": "nominal",
+      "sort": [
+        "High blood pressure",
+        "Smoking",
+        "Air pollution (outdoor & indoor)",
+        "Obesity",
+        "High cholesterol",
+        "Alcohol",
+        "Diet low in whole grains",
+        "Secondhand smoke",
+        "Low physical activity",
+        "Low bone mineral density"
+      ],
+      "title": "",
+      "axis": { "labelFontSize": 13 }
+    },
     "tooltip": [
       { "field": "Factors", "type": "nominal" },
       { "field": "Max Deaths", "type": "quantitative" }
-    ]
+    ],
+    "color": {
+      "condition": {
+        "test": "datum.Factors == 'Air pollution (outdoor & indoor)'",
+        "value": "#0021f3"
+      },
+      "value": "#aaaaaa"
+    }
   },
+  "layer": [
+    {
+      "mark": {
+        "type": "bar",
+        "cornerRadiusEnd": 4
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 3
+      },
+      "encoding": {
+        "text": { "field": "Max Deaths", "type": "quantitative" },
+        "color": {
+          "value": "#000000"
+        }
+      }
+    }
+  ],
   "config": {
     "view": {
       "stroke": "transparent"

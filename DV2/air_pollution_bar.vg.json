@@ -15,7 +15,7 @@
       "type": "quantitative",
       "axis": false
     },
-    "y": { "field": "Factors", "type": "nominal", "sort": "-x" },
+    "y": { "field": "Factors", "type": "nominal", "sort": "-x", "title": "" },
     "tooltip": [
       { "field": "Factors", "type": "nominal" },
       { "field": "Max Deaths", "type": "quantitative" }

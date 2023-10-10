@@ -1,16 +1,30 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "A bar chart showing the US population distribution of age groups in 2000.",
-  "height": { "step": 17 },
-  "data": { "url": "data/population.json" },
-  "transform": [{ "filter": "datum.year == 2000" }],
-  "mark": "bar",
+  "width": 650,
+  "height": 450,
+  "title": "Deaths by risk factors, 2019",
+  "data": {
+    "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/DV2/data/Death%20by%20factor.csv"
+  },
+  "mark": {
+    "type": "bar"
+  },
   "encoding": {
-    "y": { "field": "age" },
     "x": {
-      "aggregate": "sum",
-      "field": "people",
-      "title": "population"
-    }
+      "field": "Max Deaths",
+      "type": "quantitative",
+      "axis": false
+    },
+    "y": { "field": "Factors", "type": "nominal", "sort": "-x" },
+    "tooltip": [
+      { "field": "Factors", "type": "nominal" },
+      { "field": "Max Deaths", "type": "quantitative" }
+    ]
+  },
+  "config": {
+    "view": {
+      "stroke": "transparent"
+    },
+    "background": "transparent"
   }
 }

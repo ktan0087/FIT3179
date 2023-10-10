@@ -73,28 +73,6 @@
             { "field": "PM AQI Value", "type": "quantitative" }
           ]
         }
-      },
-      {
-        "mark": {
-          "type": "text",
-          "color": "black",
-          "align": "right",
-          "baseline": "middle",
-          "dx": 4,
-          "fontSize": 9,
-          "fontStyle": "italic"
-        },
-        "encoding": {
-          "text": { "field": "AQI Category", "type": "nominal" },
-          "color": { "value": "black" },
-          "opacity": {
-            "condition": {
-              "test": "datum['AQI Category'] == 'Moderate'",
-              "value": 1
-            },
-            "value": 0
-          }
-        }
       }
     ]
   }

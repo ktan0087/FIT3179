@@ -9,7 +9,10 @@ h1 {
 color: black;
 }
 p {
-color: red;
+color: black;
+}
+.bolded{
+    font-weight: bold;
 }
 
 header {
@@ -27,7 +30,6 @@ img{
 }
 
 div {
-    border: 1px solid black;
     margin: 5px;
     text-align: left;
     font-size: 20px;

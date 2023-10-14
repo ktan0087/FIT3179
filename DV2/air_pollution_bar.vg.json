@@ -41,7 +41,7 @@
     "color": {
       "condition": {
         "test": "datum.Factors == 'Air pollution (outdoor & indoor)'",
-        "value": "#0021f3"
+        "value": "#d94e37"
       },
       "value": "#aaaaaa"
     }

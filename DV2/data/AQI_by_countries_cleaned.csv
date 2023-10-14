@@ -1,160 +1,23 @@
 Country,City,AQI Value,AQI Category,CO AQI Value,CO AQI Category,Ozone AQI Value,Ozone AQI Category,NO2 AQI Value,NO2 AQI Category,PM2.5 AQI Value,PM2.5 AQI Category,lat,lng
 India,Nohar,500,Hazardous,1,Good,41,Good,0,Good,500,Hazardous,29.18,74.77
-India,Sardulgarh,500,Hazardous,1,Good,40,Good,1,Good,500,Hazardous,29.697,75.2388
-India,Jalalabad,500,Hazardous,1,Good,48,Good,1,Good,500,Hazardous,35.88,74.493
-India,Hasanpur,500,Hazardous,1,Good,55,Moderate,1,Good,500,Hazardous,26.1147,87.2319
-India,Hasanpur,500,Hazardous,1,Good,55,Moderate,1,Good,500,Hazardous,25.633,85.5728
-India,Pokaran,500,Hazardous,0,Good,37,Good,0,Good,500,Hazardous,26.9194,71.9208
 South Africa,Boksburg,500,Hazardous,49,Good,1,Good,30,Good,500,Hazardous,-26.2125,28.2625
 United States of America,Durango,500,Hazardous,133,Unhealthy for Sensitive Groups,0,Good,53,Moderate,500,Hazardous,24.025,-104.6675
-United States of America,Durango,500,Hazardous,133,Unhealthy for Sensitive Groups,0,Good,53,Moderate,500,Hazardous,43.1689,-2.63
-United States of America,Durango,500,Hazardous,133,Unhealthy for Sensitive Groups,0,Good,53,Moderate,500,Hazardous,37.2659,-107.8781
-India,Malaut,500,Hazardous,1,Good,43,Good,2,Good,487,Hazardous,30.19,74.499
 Russian Federation,Tynda,500,Hazardous,21,Good,8,Good,17,Good,475,Hazardous,55.1667,124.7167
-India,Ratangarh,500,Hazardous,0,Good,37,Good,0,Good,471,Hazardous,28.0787,74.6219
-India,Ratangarh,500,Hazardous,0,Good,37,Good,0,Good,471,Hazardous,24.8167,75.1167
-India,Phalodi,500,Hazardous,0,Good,34,Good,0,Good,467,Hazardous,27.131,72.364
-India,Rohtak,500,Hazardous,1,Good,41,Good,1,Good,467,Hazardous,28.8909,76.5796
 Pakistan,Bahawalnagar,500,Hazardous,1,Good,38,Good,1,Good,466,Hazardous,29.9928,73.2536
-India,Delhi,500,Hazardous,1,Good,44,Good,2,Good,446,Hazardous,28.61,77.23
-India,Delhi,500,Hazardous,1,Good,44,Good,2,Good,446,Hazardous,37.4306,-120.7759
-Pakistan,Harunabad,500,Hazardous,1,Good,43,Good,0,Good,443,Hazardous,29.613,73.1409
-India,Etah,500,Hazardous,1,Good,50,Good,3,Good,437,Hazardous,27.63,78.67
-India,Mahendragarh,500,Hazardous,1,Good,42,Good,0,Good,435,Hazardous,28.28,76.15
-India,Maur,500,Hazardous,1,Good,62,Moderate,1,Good,433,Hazardous,30.0833,75.25
-India,Maur,500,Hazardous,1,Good,62,Moderate,1,Good,433,Hazardous,47.3417,8.6703
-India,Dhanaura,500,Hazardous,3,Good,143,Unhealthy for Sensitive Groups,4,Good,428,Hazardous,25.1905,87.2595
-India,Nawalgarh,500,Hazardous,1,Good,33,Good,0,Good,412,Hazardous,27.85,75.27
-India,Jodhpur,500,Hazardous,0,Good,34,Good,0,Good,378,Hazardous,26.28,73.02
-India,Phillaur,444,Hazardous,2,Good,111,Unhealthy for Sensitive Groups,1,Good,391,Hazardous,31.03,75.78
-Pakistan,Chunian,438,Hazardous,1,Good,56,Moderate,1,Good,383,Hazardous,30.9639,73.9803
-India,Makhu,425,Hazardous,1,Good,93,Moderate,1,Good,379,Hazardous,31.1033,74.9963
 Republic of Korea,Seoul,421,Hazardous,27,Good,0,Good,91,Moderate,415,Hazardous,37.56,126.99
 Democratic Republic of the Congo,Tshikapa,392,Hazardous,23,Good,37,Good,18,Good,392,Hazardous,-6.4167,20.8
 China,Chengdu,386,Hazardous,28,Good,0,Good,64,Moderate,386,Hazardous,30.66,104.0633
 Mexico,Tepeapulco,384,Hazardous,3,Good,25,Good,6,Good,384,Hazardous,19.7856,-98.5517
-India,Ballia,377,Hazardous,2,Good,90,Moderate,1,Good,300,Hazardous,25.7604,84.1471
-Democratic Republic of the Congo,Bulungu,372,Hazardous,35,Good,37,Good,13,Good,372,Hazardous,-4.55,18.6
-India,Patna,365,Hazardous,2,Good,110,Unhealthy for Sensitive Groups,1,Good,307,Hazardous,25.6,85.1
 Chile,Lampa,358,Hazardous,28,Good,0,Good,36,Good,358,Hazardous,-33.2833,-70.9
-Chile,Lampa,358,Hazardous,28,Good,0,Good,36,Good,358,Hazardous,-15.3636,-70.3656
-Pakistan,Nankana Sahib,356,Hazardous,2,Good,100,Unhealthy for Sensitive Groups,1,Good,354,Hazardous,31.45,73.7067
-India,Rafiganj,356,Hazardous,1,Good,60,Moderate,0,Good,284,Very Unhealthy,24.82,84.65
-India,Jaisalmer,355,Hazardous,1,Good,44,Good,0,Good,274,Very Unhealthy,26.9167,70.9167
-South Africa,Pretoria,329,Hazardous,20,Good,2,Good,18,Good,329,Hazardous,-25.7461,28.1881
-Pakistan,Pakpattan,328,Hazardous,2,Good,107,Unhealthy for Sensitive Groups,1,Good,328,Hazardous,30.35,73.4
-India,Garhshankar,325,Hazardous,2,Good,160,Unhealthy,2,Good,325,Hazardous,31.2154,76.1415
-India,Banga,324,Hazardous,2,Good,150,Unhealthy,1,Good,324,Hazardous,6.3,124.7833
-India,Banga,324,Hazardous,2,Good,150,Unhealthy,1,Good,324,Hazardous,31.1887,75.9949
-India,Banga,324,Hazardous,2,Good,150,Unhealthy,1,Good,324,Hazardous,-8.7333,15.1667
-India,Baragaon,324,Hazardous,1,Good,51,Moderate,1,Good,264,Very Unhealthy,25.1348,85.432
-India,Dehri,323,Hazardous,1,Good,54,Moderate,0,Good,268,Very Unhealthy,24.91,84.18
-India,Dehri,323,Hazardous,1,Good,54,Moderate,0,Good,268,Very Unhealthy,25.4252,83.8201
-Mexico,Ixtapaluca,321,Hazardous,5,Good,6,Good,21,Good,321,Hazardous,19.3186,-98.8822
-Mexico,Texcoco,320,Hazardous,5,Good,26,Good,10,Good,320,Hazardous,19.52,-98.88
-India,Bikramganj,316,Hazardous,1,Good,67,Moderate,1,Good,271,Very Unhealthy,25.2107,84.2551
-India,Nagar,310,Hazardous,1,Good,46,Good,0,Good,310,Hazardous,27.4247,77.0995
-India,Nagar,310,Hazardous,1,Good,46,Good,0,Good,310,Hazardous,24.0914,87.9888
-India,Govindgarh,307,Hazardous,1,Good,45,Good,0,Good,307,Hazardous,24.3785,81.2964
-India,Muzaffarnagar,307,Hazardous,4,Good,199,Unhealthy,4,Good,307,Hazardous,29.482,77.7
-India,Bela,305,Hazardous,1,Good,48,Good,1,Good,280,Very Unhealthy,25.8103,85.0157
-India,Bela,305,Hazardous,1,Good,48,Good,1,Good,280,Very Unhealthy,24.9689,84.974
-India,Bela,305,Hazardous,1,Good,48,Good,1,Good,280,Very Unhealthy,26.4989,86.3242
-Pakistan,Faisalabad,301,Hazardous,1,Good,82,Moderate,1,Good,301,Hazardous,31.4167,73.0911
-India,Gorakhpur,296,Very Unhealthy,3,Good,161,Unhealthy,1,Good,296,Very Unhealthy,26.7637,83.4039
-Pakistan,Toba Tek Singh,295,Very Unhealthy,1,Good,55,Moderate,1,Good,295,Very Unhealthy,30.9711,72.4825
-India,Phulera,291,Very Unhealthy,1,Good,41,Good,0,Good,291,Very Unhealthy,26.87,75.23
-India,Bar Bigha,290,Very Unhealthy,2,Good,99,Moderate,1,Good,283,Very Unhealthy,25.2186,85.7332
 Angola,Caxito,285,Very Unhealthy,23,Good,31,Good,14,Good,285,Very Unhealthy,-8.58,13.6642
-China,Chongqing,283,Very Unhealthy,19,Good,0,Good,58,Moderate,283,Very Unhealthy,29.55,106.5069
 Indonesia,Curug,281,Very Unhealthy,15,Good,6,Good,59,Moderate,281,Very Unhealthy,-6.3711,106.8
-Mexico,Tlaxcala,281,Very Unhealthy,4,Good,1,Good,15,Good,281,Very Unhealthy,19.3151,-98.2362
-Mexico,Calpulalpan,279,Very Unhealthy,2,Good,38,Good,3,Good,279,Very Unhealthy,19.5869,-98.5683
-Democratic Republic of the Congo,Gandajika,277,Very Unhealthy,14,Good,47,Good,9,Good,277,Very Unhealthy,-6.75,23.9667
-Pakistan,Chiniot,275,Very Unhealthy,2,Good,112,Unhealthy for Sensitive Groups,1,Good,275,Very Unhealthy,31.7194,72.9842
-South Africa,Vanderbijlpark,275,Very Unhealthy,15,Good,8,Good,20,Good,275,Very Unhealthy,-26.6992,27.8356
-South Africa,Vereeniging,274,Very Unhealthy,16,Good,8,Good,19,Good,274,Very Unhealthy,-26.6736,27.9319
-Mexico,Chalco,270,Very Unhealthy,5,Good,1,Good,25,Good,270,Very Unhealthy,19.2647,-98.8975
-Mexico,Chalco,270,Very Unhealthy,5,Good,1,Good,25,Good,270,Very Unhealthy,41.1817,-96.1353
-Mexico,Chiconcuac,269,Very Unhealthy,3,Good,13,Good,16,Good,269,Very Unhealthy,19.55,-98.9
-Democratic Republic of the Congo,Kikwit,267,Very Unhealthy,16,Good,106,Unhealthy for Sensitive Groups,10,Good,267,Very Unhealthy,-5.0386,18.8181
-Democratic Republic of the Congo,Kaniama,266,Very Unhealthy,12,Good,43,Good,13,Good,266,Very Unhealthy,-7.5696,24.17
-India,Bettiah,265,Very Unhealthy,4,Good,166,Unhealthy,1,Good,265,Very Unhealthy,26.8014,84.5028
 Australia,Palmerston,264,Very Unhealthy,9,Good,2,Good,17,Good,264,Very Unhealthy,53.35,-6.379
-Indonesia,Leuwiliang,264,Very Unhealthy,15,Good,8,Good,52,Moderate,264,Very Unhealthy,-6.5742,106.632
-South Africa,Cullinan,262,Very Unhealthy,16,Good,3,Good,15,Good,262,Very Unhealthy,-25.6728,28.5208
-India,Sirsa,260,Very Unhealthy,1,Good,47,Good,0,Good,239,Very Unhealthy,29.5333,75.0167
-India,Sirsa,260,Very Unhealthy,1,Good,47,Good,0,Good,239,Very Unhealthy,26.2667,84.7403
-India,Nokha,256,Very Unhealthy,1,Good,33,Good,2,Good,256,Very Unhealthy,27.6,73.42
-India,Nokha,256,Very Unhealthy,1,Good,33,Good,2,Good,256,Very Unhealthy,25.1015,84.1228
-India,Sheopur,254,Very Unhealthy,1,Good,41,Good,0,Good,254,Very Unhealthy,25.67,76.7
-India,Sagauli,253,Very Unhealthy,4,Good,166,Unhealthy,1,Good,253,Very Unhealthy,26.7833,84.7333
-Pakistan,Mian Channun,252,Very Unhealthy,2,Good,135,Unhealthy for Sensitive Groups,1,Good,252,Very Unhealthy,30.4397,72.3544
-Chile,Talagante,251,Very Unhealthy,18,Good,0,Good,27,Good,251,Very Unhealthy,-33.6667,-70.8667
-India,Loni,249,Very Unhealthy,3,Good,141,Unhealthy for Sensitive Groups,4,Good,249,Very Unhealthy,28.75,77.28
-Indonesia,Pasarkemis,249,Very Unhealthy,11,Good,10,Good,49,Good,249,Very Unhealthy,-6.1703,106.53
-Pakistan,Hafizabad,248,Very Unhealthy,2,Good,149,Unhealthy for Sensitive Groups,1,Good,248,Very Unhealthy,32.0714,73.6878
-South Africa,Rustenburg,248,Very Unhealthy,17,Good,1,Good,15,Good,248,Very Unhealthy,-25.6667,27.2428
 Brazil,Suzano,247,Very Unhealthy,16,Good,0,Good,46,Good,247,Very Unhealthy,-23.5428,-46.3108
-India,Darbhanga,247,Very Unhealthy,3,Good,162,Unhealthy,1,Good,247,Very Unhealthy,26.17,85.9
-Chile,Buin,245,Very Unhealthy,20,Good,0,Good,27,Good,245,Very Unhealthy,-33.7333,-70.7333
-India,Chandauli,245,Very Unhealthy,1,Good,67,Moderate,1,Good,245,Very Unhealthy,25.8972,85.7161
-China,Shache,244,Very Unhealthy,1,Good,41,Good,0,Good,244,Very Unhealthy,38.4261,77.25
-India,Losal,244,Very Unhealthy,1,Good,46,Good,0,Good,244,Very Unhealthy,27.4,74.92
-Mexico,Atlautla,243,Very Unhealthy,5,Good,1,Good,20,Good,243,Very Unhealthy,19,-98.7167
-India,Sikandra,242,Very Unhealthy,1,Good,73,Moderate,1,Good,242,Very Unhealthy,24.9564,86.0344
-Chile,San Bernardo,240,Very Unhealthy,15,Good,0,Good,24,Good,240,Very Unhealthy,-33.5833,-70.7
-Chile,San Bernardo,240,Very Unhealthy,15,Good,0,Good,24,Good,240,Very Unhealthy,1.5108,-77.0467
-Chile,San Bernardo,240,Very Unhealthy,15,Good,0,Good,24,Good,240,Very Unhealthy,-27.2667,-60.7
-India,Sherkot,240,Very Unhealthy,6,Good,156,Unhealthy,9,Good,240,Very Unhealthy,29.35,78.58
-South Africa,Nelspruit,237,Very Unhealthy,13,Good,3,Good,7,Good,237,Very Unhealthy,-25.4745,30.9703
-South Africa,Brakpan,236,Very Unhealthy,16,Good,10,Good,16,Good,236,Very Unhealthy,-26.2353,28.37
-India,Basi,235,Very Unhealthy,1,Good,49,Good,0,Good,235,Very Unhealthy,30.5872,76.8428
-India,Dhaka,235,Very Unhealthy,3,Good,158,Unhealthy,1,Good,235,Very Unhealthy,23.7639,90.3889
-India,Samthar,234,Very Unhealthy,1,Good,47,Good,0,Good,234,Very Unhealthy,25.84,78.9
-India,Sabalgarh,233,Very Unhealthy,1,Good,48,Good,0,Good,233,Very Unhealthy,26.25,77.4
-China,Qingdao,232,Very Unhealthy,21,Good,16,Good,28,Good,232,Very Unhealthy,36.1167,120.4
-Mexico,Apizaco,230,Very Unhealthy,1,Good,34,Good,3,Good,230,Very Unhealthy,19.4167,-98.1333
-India,Phulpur,226,Very Unhealthy,1,Good,48,Good,1,Good,226,Very Unhealthy,24.955,90.3573
-India,Phulpur,226,Very Unhealthy,1,Good,48,Good,1,Good,226,Very Unhealthy,25.55,82.1
-India,Datia,226,Very Unhealthy,1,Good,48,Good,0,Good,226,Very Unhealthy,25.67,78.47
-Indonesia,Rangkasbitung,225,Very Unhealthy,11,Good,9,Good,63,Moderate,225,Very Unhealthy,-6.3667,106.25
-India,Akbarpur,224,Very Unhealthy,2,Good,85,Moderate,1,Good,224,Very Unhealthy,26.52,82.62
-India,Akbarpur,224,Very Unhealthy,2,Good,85,Moderate,1,Good,224,Very Unhealthy,24.6281,83.9199
-Mexico,Tenancingo,224,Very Unhealthy,4,Good,0,Good,15,Good,224,Very Unhealthy,18.9608,-99.5906
-Mexico,Apan,224,Very Unhealthy,2,Good,8,Good,9,Good,224,Very Unhealthy,19.7,-98.4333
-Pakistan,Jauharabad,224,Very Unhealthy,2,Good,141,Unhealthy for Sensitive Groups,1,Good,224,Very Unhealthy,32.2919,72.2736
-Pakistan,Vihari,224,Very Unhealthy,5,Good,18,Good,19,Good,224,Very Unhealthy,30.0419,72.3528
-India,Seondha,222,Very Unhealthy,1,Good,62,Moderate,0,Good,222,Very Unhealthy,26.1542,78.7812
-India,Rishra,222,Very Unhealthy,12,Good,1,Good,28,Good,222,Very Unhealthy,22.71,88.35
 Iran (Islamic Republic of),Karaj,222,Very Unhealthy,5,Good,222,Very Unhealthy,7,Good,163,Unhealthy,35.8272,50.9489
-India,Champdani,220,Very Unhealthy,10,Good,9,Good,23,Good,220,Very Unhealthy,22.8,88.37
-India,Dumraon,219,Very Unhealthy,1,Good,93,Moderate,1,Good,219,Very Unhealthy,25.5526,84.1515
-Brazil,Guarulhos,217,Very Unhealthy,13,Good,0,Good,39,Good,217,Very Unhealthy,-23.4628,-46.5328
-India,Forbesganj,217,Very Unhealthy,3,Good,103,Unhealthy for Sensitive Groups,1,Good,217,Very Unhealthy,26.3,87.265
-India,Teonthar,217,Very Unhealthy,1,Good,44,Good,0,Good,217,Very Unhealthy,24.9821,81.6419
-India,Madanpur,217,Very Unhealthy,4,Good,99,Moderate,4,Good,217,Very Unhealthy,26.2103,87.5141
-India,Madanpur,217,Very Unhealthy,4,Good,99,Moderate,4,Good,217,Very Unhealthy,23.02,88.48
-India,Madanpur,217,Very Unhealthy,4,Good,99,Moderate,4,Good,217,Very Unhealthy,24.6554,84.5844
 Nigeria,Shagamu,217,Very Unhealthy,12,Good,14,Good,14,Good,217,Very Unhealthy,6.8333,3.65
-Democratic Republic of the Congo,Kinshasa,216,Very Unhealthy,21,Good,105,Unhealthy for Sensitive Groups,7,Good,216,Very Unhealthy,-4.325,15.3222
-India,Mauganj,216,Very Unhealthy,1,Good,43,Good,0,Good,216,Very Unhealthy,24.68,81.88
-India,Garulia,216,Very Unhealthy,4,Good,96,Moderate,5,Good,216,Very Unhealthy,22.82,88.37
-South Africa,Pietermaritzburg,215,Very Unhealthy,13,Good,3,Good,13,Good,215,Very Unhealthy,-29.6167,30.3833
-Russian Federation,Skovorodino,214,Very Unhealthy,8,Good,25,Good,9,Good,214,Very Unhealthy,53.9833,123.9333
-Iran (Islamic Republic of),Qom,214,Very Unhealthy,4,Good,214,Very Unhealthy,7,Good,175,Unhealthy,34.64,50.8764
-Nigeria,Onitsha,213,Very Unhealthy,11,Good,8,Good,11,Good,213,Very Unhealthy,6.1667,6.7833
-India,Marhaura,212,Very Unhealthy,4,Good,172,Unhealthy,2,Good,212,Very Unhealthy,25.97,84.87
 Senegal,Dagana,211,Very Unhealthy,1,Good,22,Good,1,Good,211,Very Unhealthy,16.4833,-15.6
-China,Jinan,210,Very Unhealthy,7,Good,210,Very Unhealthy,8,Good,168,Unhealthy,36.6667,116.9833
-Mexico,Zacatelco,209,Very Unhealthy,4,Good,4,Good,14,Good,209,Very Unhealthy,19.2167,-98.2333
 Malaysia,Miri,209,Very Unhealthy,67,Moderate,209,Very Unhealthy,2,Good,157,Unhealthy,4.3925,113.9861
-Chile,Llaillay,207,Very Unhealthy,18,Good,2,Good,28,Good,207,Very Unhealthy,-32.8403,-70.9483
-Indonesia,Cikupa,207,Very Unhealthy,5,Good,207,Very Unhealthy,4,Good,166,Unhealthy,-6.4947,106.6511
 Namibia,Swakopmund,204,Very Unhealthy,1,Good,22,Good,0,Good,204,Very Unhealthy,-22.6833,14.5333
-Pakistan,Kot Addu,202,Very Unhealthy,1,Good,88,Moderate,1,Good,202,Very Unhealthy,30.47,70.9644
-Democratic Republic of the Congo,Kasongo,201,Very Unhealthy,10,Good,48,Good,8,Good,201,Very Unhealthy,-4.45,26.65
-Angola,Camabatela,198,Unhealthy,12,Good,29,Good,8,Good,198,Unhealthy,-8.1833,15.3667
 Saudi Arabia,Riyadh,196,Unhealthy,1,Good,44,Good,1,Good,196,Unhealthy,24.6333,46.7167
 United Republic of Tanzania,Karema,195,Unhealthy,10,Good,25,Good,10,Good,195,Unhealthy,-6.8205,30.4389
 Bahrain,Manama,188,Unhealthy,2,Good,127,Unhealthy for Sensitive Groups,3,Good,188,Unhealthy,26.225,50.5775
@@ -165,7 +28,6 @@ Uganda,Kisoro,180,Unhealthy,2,Good,22,Good,1,Good,180,Unhealthy,-1.285,29.685
 Peru,Chosica,179,Unhealthy,9,Good,5,Good,25,Good,179,Unhealthy,-11.9361,-76.6972
 Bangladesh,Narsingdi,178,Unhealthy,2,Good,49,Good,2,Good,178,Unhealthy,23.9167,90.7167
 Kenya,Kiambu,175,Unhealthy,10,Good,11,Good,4,Good,175,Unhealthy,-1.1667,36.8167
-Brazil,Itaquaquecetuba,172,Unhealthy,7,Good,0,Good,22,Good,172,Unhealthy,-23.4864,-46.3486
 Uzbekistan,Termiz,172,Unhealthy,1,Good,49,Good,0,Good,172,Unhealthy,37.2167,67.2833
 ,Lagos,172,Unhealthy,7,Good,17,Good,9,Good,172,Unhealthy,6.455,3.3841
 United Arab Emirates,Abu Dhabi,170,Unhealthy,2,Good,170,Unhealthy,4,Good,150,Unhealthy,24.4667,54.3667
@@ -177,329 +39,99 @@ Aruba,Oranjestad,163,Unhealthy,0,Good,23,Good,0,Good,163,Unhealthy,12.5186,-70.0
 Eritrea,Edd,163,Unhealthy,1,Good,41,Good,0,Good,163,Unhealthy,13.9333,41.7
 Nepal,Janakpur,163,Unhealthy,3,Good,114,Unhealthy for Sensitive Groups,1,Good,163,Unhealthy,26.7286,85.925
 Turkmenistan,Seydi,163,Unhealthy,1,Good,42,Good,0,Good,163,Unhealthy,39.4167,62.9
-United States of America,Alpine,163,Unhealthy,5,Good,4,Good,25,Good,163,Unhealthy,32.8439,-116.7585
 Venezuela (Bolivarian Republic of),Barcelona,163,Unhealthy,4,Good,8,Good,8,Good,163,Unhealthy,41.3825,2.1769
 Gambia,Brikama,162,Unhealthy,1,Good,33,Good,0,Good,162,Unhealthy,13.2667,-16.65
 Thailand,Kamphaeng Phet,162,Unhealthy,1,Good,25,Good,0,Good,162,Unhealthy,16.4811,99.5222
 Kuwait,Bayan,161,Unhealthy,3,Good,124,Unhealthy for Sensitive Groups,18,Good,161,Unhealthy,36.1148,102.2476
 Trinidad and Tobago,Sangre Grande,161,Unhealthy,0,Good,21,Good,3,Good,161,Unhealthy,10.5667,-61.1333
-China,Korla,160,Unhealthy,1,Good,45,Good,0,Good,160,Unhealthy,41.7259,86.1746
-Democratic Republic of the Congo,Kabinda,160,Unhealthy,4,Good,70,Moderate,3,Good,160,Unhealthy,-6.13,24.48
-India,Kota,160,Unhealthy,1,Good,42,Good,1,Good,160,Unhealthy,25.18,75.83
-Indonesia,Semarang,160,Unhealthy,5,Good,17,Good,17,Good,160,Unhealthy,-6.9667,110.4167
-Mexico,Ocoyoacac,160,Unhealthy,4,Good,8,Good,15,Good,160,Unhealthy,19.2739,-99.4606
 Paraguay,Villa Hayes,160,Unhealthy,8,Good,0,Good,5,Good,160,Unhealthy,-25.1,-57.5667
-South Africa,Robertson,160,Unhealthy,9,Good,5,Good,5,Good,160,Unhealthy,-33.8,19.8833
-Uganda,Ntungamo,160,Unhealthy,5,Good,23,Good,1,Good,160,Unhealthy,-0.8819,30.2653
-Brazil,Guararema,159,Unhealthy,6,Good,1,Good,16,Good,159,Unhealthy,-23.415,-46.035
 Dominican Republic,Monte Plata,159,Unhealthy,5,Good,5,Good,12,Good,159,Unhealthy,18.81,-69.79
-Pakistan,Kabirwala,159,Unhealthy,3,Good,156,Unhealthy,1,Good,159,Unhealthy,30.4053,71.8681
-Venezuela (Bolivarian Republic of),Guacara,159,Unhealthy,3,Good,4,Good,16,Good,159,Unhealthy,10.2333,-67.8833
-,Sitrah,159,Unhealthy,1,Good,94,Moderate,2,Good,159,Unhealthy,26.12,50.65
-Chile,Calera,158,Unhealthy,6,Good,0,Good,20,Good,158,Unhealthy,33.1254,-86.7449
-Gambia,Serekunda,158,Unhealthy,1,Good,30,Good,1,Good,158,Unhealthy,13.4333,-16.6667
-Bangladesh,Feni,157,Unhealthy,2,Good,36,Good,2,Good,157,Unhealthy,23.0183,91.41
-Finland,Tuusula,157,Unhealthy,3,Good,21,Good,15,Good,157,Unhealthy,60.4333,25.05
-Mauritania,Nouadhibou,157,Unhealthy,0,Good,36,Good,0,Good,157,Unhealthy,20.9333,-17.0333
-Philippines,Ipil,157,Unhealthy,1,Good,15,Good,0,Good,157,Unhealthy,7.7822,122.5867
 Rwanda,Gisenyi,157,Unhealthy,4,Good,17,Good,2,Good,157,Unhealthy,-1.7,29.25
-Senegal,Khombole,157,Unhealthy,2,Good,26,Good,3,Good,157,Unhealthy,14.7667,-16.6833
-United States of America,Royal Oak,157,Unhealthy,5,Good,4,Good,29,Good,157,Unhealthy,42.5084,-83.1539
-Iran (Islamic Republic of),Qarchak,157,Unhealthy,2,Good,157,Unhealthy,3,Good,135,Unhealthy for Sensitive Groups,35.4394,51.5689
 Chad,Faya,156,Unhealthy,1,Good,29,Good,0,Good,156,Unhealthy,17.9169,19.1167
 Ethiopia,Korem,156,Unhealthy,1,Good,28,Good,0,Good,156,Unhealthy,12.5,39.5167
 Yemen,Ibb,156,Unhealthy,1,Good,46,Good,0,Good,156,Unhealthy,13.9667,44.1667
 Libya,Mizdah,155,Unhealthy,1,Good,31,Good,0,Good,155,Unhealthy,31.445,12.9831
 Oman,Muscat,155,Unhealthy,2,Good,155,Unhealthy,5,Good,139,Unhealthy for Sensitive Groups,23.6139,58.5922
 Algeria,Algiers,154,Unhealthy,10,Good,33,Good,69,Moderate,154,Unhealthy,36.7539,3.0589
-Angola,Camacupa,154,Unhealthy,4,Good,28,Good,3,Good,154,Unhealthy,-12.0256,17.4686
-Nigeria,Nnewi,154,Unhealthy,7,Good,16,Good,7,Good,154,Unhealthy,6.0167,6.9167
-Uzbekistan,Karmana,154,Unhealthy,1,Good,41,Good,0,Good,154,Unhealthy,40.1422,65.3625
 Guinea,Koundara,153,Unhealthy,1,Good,20,Good,0,Good,153,Unhealthy,12.48,-13.296
 Tajikistan,Yovon,153,Unhealthy,1,Good,25,Good,1,Good,153,Unhealthy,38.3167,69.05
 Italy,Pianezza,152,Unhealthy,4,Good,17,Good,6,Good,152,Unhealthy,45.1058,7.5434
-Niger,Agadez,152,Unhealthy,1,Good,37,Good,0,Good,152,Unhealthy,16.9959,7.9828
-United Arab Emirates,Dubai,152,Unhealthy,1,Good,140,Unhealthy for Sensitive Groups,3,Good,152,Unhealthy,25.2631,55.2972
 El Salvador,Delgado,151,Unhealthy,4,Good,9,Good,12,Good,151,Unhealthy,13.7167,-89.1667
 France,Pertuis,151,Unhealthy,1,Good,31,Good,5,Good,151,Unhealthy,43.695,5.5036
-Nepal,Kirtipur,151,Unhealthy,4,Good,14,Good,4,Good,151,Unhealthy,27.6667,85.2833
 Ghana,Akwatia,150,Unhealthy,4,Good,8,Good,3,Good,150,Unhealthy,6.05,-0.8
-Kenya,Kisumu,150,Unhealthy,10,Good,28,Good,6,Good,150,Unhealthy,-0.0833,34.7667
-Malaysia,Bukit Mertajam,150,Unhealthy,3,Good,24,Good,10,Good,150,Unhealthy,5.3631,100.4667
-Saudi Arabia,Mecca,150,Unhealthy,1,Good,65,Moderate,0,Good,150,Unhealthy,21.4225,39.8233
-Turkmenistan,Farap,150,Unhealthy,1,Good,47,Good,0,Good,150,Unhealthy,39.1667,63.6
 Colombia,Galapa,149,Unhealthy for Sensitive Groups,2,Good,10,Good,6,Good,149,Unhealthy for Sensitive Groups,10.9167,-74.8333
-Trinidad and Tobago,Marabella,148,Unhealthy for Sensitive Groups,1,Good,21,Good,4,Good,148,Unhealthy for Sensitive Groups,10.3,-61.45
-Thailand,Chachoengsao,145,Unhealthy for Sensitive Groups,3,Good,3,Good,13,Good,145,Unhealthy for Sensitive Groups,13.6903,101.0703
 Haiti,Hinche,144,Unhealthy for Sensitive Groups,3,Good,4,Good,12,Good,144,Unhealthy for Sensitive Groups,19.15,-72.0167
 Nicaragua,Chinandega,143,Unhealthy for Sensitive Groups,1,Good,17,Good,4,Good,143,Unhealthy for Sensitive Groups,12.6297,-87.1283
 Iraq,Baghdad,143,Unhealthy for Sensitive Groups,3,Good,143,Unhealthy for Sensitive Groups,8,Good,90,Moderate,33.3153,44.3661
-China,Gaomi,139,Unhealthy for Sensitive Groups,5,Good,72,Moderate,11,Good,139,Unhealthy for Sensitive Groups,36.3833,119.75
-Colombia,Luruaco,139,Unhealthy for Sensitive Groups,2,Good,13,Good,7,Good,139,Unhealthy for Sensitive Groups,10.6083,-75.1417
-India,Puri,139,Unhealthy for Sensitive Groups,2,Good,54,Moderate,0,Good,139,Unhealthy for Sensitive Groups,19.8106,85.8314
-South Africa,Malmesbury,139,Unhealthy for Sensitive Groups,5,Good,22,Good,8,Good,139,Unhealthy for Sensitive Groups,-33.45,18.7333
-United States of America,Shreveport,139,Unhealthy for Sensitive Groups,1,Good,24,Good,2,Good,139,Unhealthy for Sensitive Groups,32.4653,-93.7955
 Egypt,Ismailia,139,Unhealthy for Sensitive Groups,1,Good,139,Unhealthy for Sensitive Groups,1,Good,67,Moderate,30.5833,32.2667
-Nigeria,Kano,138,Unhealthy for Sensitive Groups,4,Good,25,Good,4,Good,138,Unhealthy for Sensitive Groups,12,8.5167
-Russian Federation,Nerchinsk,138,Unhealthy for Sensitive Groups,8,Good,44,Good,0,Good,138,Unhealthy for Sensitive Groups,51.9944,116.5556
 Somalia,Bandarbeyla,138,Unhealthy for Sensitive Groups,0,Good,18,Good,0,Good,138,Unhealthy for Sensitive Groups,9.4833,50.8167
-Tajikistan,Isfara,138,Unhealthy for Sensitive Groups,1,Good,63,Moderate,0,Good,138,Unhealthy for Sensitive Groups,40.1167,70.6333
-Uzbekistan,Pop,138,Unhealthy for Sensitive Groups,1,Good,25,Good,8,Good,138,Unhealthy for Sensitive Groups,40.8736,71.1089
-Brazil,Diadema,137,Unhealthy for Sensitive Groups,3,Good,4,Good,15,Good,137,Unhealthy for Sensitive Groups,-23.6861,-46.6106
-Democratic Republic of the Congo,Kongolo,137,Unhealthy for Sensitive Groups,3,Good,21,Good,2,Good,137,Unhealthy for Sensitive Groups,-5.4,27
-Iraq,Kirkuk,137,Unhealthy for Sensitive Groups,1,Good,69,Moderate,1,Good,137,Unhealthy for Sensitive Groups,35.4667,44.3167
-Mexico,Salamanca,137,Unhealthy for Sensitive Groups,3,Good,9,Good,10,Good,137,Unhealthy for Sensitive Groups,20.5703,-101.1972
-Peru,Huaral,137,Unhealthy for Sensitive Groups,4,Good,11,Good,10,Good,137,Unhealthy for Sensitive Groups,-11.5,-77.2
-Senegal,Fatick,135,Unhealthy for Sensitive Groups,1,Good,28,Good,3,Good,135,Unhealthy for Sensitive Groups,14.3333,-16.4069
-Chile,Graneros,134,Unhealthy for Sensitive Groups,3,Good,4,Good,15,Good,134,Unhealthy for Sensitive Groups,-34.0647,-70.7264
-Kenya,Kakamega,134,Unhealthy for Sensitive Groups,11,Good,24,Good,6,Good,134,Unhealthy for Sensitive Groups,0.2822,34.754
 Lesotho,Maseru,134,Unhealthy for Sensitive Groups,6,Good,5,Good,3,Good,134,Unhealthy for Sensitive Groups,-29.31,27.48
-Pakistan,Chaman,134,Unhealthy for Sensitive Groups,0,Good,44,Good,0,Good,134,Unhealthy for Sensitive Groups,30.921,66.4597
 Panama,Pacora,134,Unhealthy for Sensitive Groups,4,Good,11,Good,13,Good,134,Unhealthy for Sensitive Groups,9.08,-79.28
-Venezuela (Bolivarian Republic of),Cantaura,134,Unhealthy for Sensitive Groups,1,Good,20,Good,1,Good,134,Unhealthy for Sensitive Groups,9.3005,-64.3564
-,Bissau,134,Unhealthy for Sensitive Groups,1,Good,24,Good,0,Good,134,Unhealthy for Sensitive Groups,11.85,-15.5667
 Afghanistan,Zaranj,133,Unhealthy for Sensitive Groups,1,Good,46,Good,0,Good,133,Unhealthy for Sensitive Groups,30.96,61.86
-Iran (Islamic Republic of),Hashtgerd,133,Unhealthy for Sensitive Groups,2,Good,122,Unhealthy for Sensitive Groups,3,Good,133,Unhealthy for Sensitive Groups,35.9619,50.68
 Japan,Okaya,133,Unhealthy for Sensitive Groups,3,Good,4,Good,12,Good,133,Unhealthy for Sensitive Groups,36.0671,138.0493
-Thailand,Bang Phae,133,Unhealthy for Sensitive Groups,3,Good,3,Good,11,Good,133,Unhealthy for Sensitive Groups,13.6983,99.9068
-El Salvador,Quezaltepeque,132,Unhealthy for Sensitive Groups,4,Good,6,Good,11,Good,132,Unhealthy for Sensitive Groups,13.8333,-89.2667
-Indonesia,Jepara,132,Unhealthy for Sensitive Groups,3,Good,9,Good,14,Good,132,Unhealthy for Sensitive Groups,-6.5333,110.6667
 Israel,Tirat Karmel,132,Unhealthy for Sensitive Groups,2,Good,42,Good,9,Good,132,Unhealthy for Sensitive Groups,32.7667,34.9667
 Ecuador,Quito,131,Unhealthy for Sensitive Groups,3,Good,0,Good,7,Good,131,Unhealthy for Sensitive Groups,-0.22,-78.5125
 Gabon,Libreville,131,Unhealthy for Sensitive Groups,1,Good,27,Good,1,Good,131,Unhealthy for Sensitive Groups,0.3903,9.4542
-Haiti,Verrettes,131,Unhealthy for Sensitive Groups,2,Good,18,Good,4,Good,131,Unhealthy for Sensitive Groups,19.05,-72.4667
-Italy,Busca,131,Unhealthy for Sensitive Groups,1,Good,28,Good,2,Good,131,Unhealthy for Sensitive Groups,44.5167,7.4667
-Malaysia,Taiping,131,Unhealthy for Sensitive Groups,3,Good,24,Good,10,Good,131,Unhealthy for Sensitive Groups,4.85,100.7333
-Philippines,Manila,131,Unhealthy for Sensitive Groups,3,Good,25,Good,7,Good,131,Unhealthy for Sensitive Groups,14.5958,120.9772
-Chad,Ati,130,Unhealthy for Sensitive Groups,1,Good,46,Good,0,Good,130,Unhealthy for Sensitive Groups,13.2133,18.3381
 Kazakhstan,Esik,130,Unhealthy for Sensitive Groups,1,Good,30,Good,0,Good,130,Unhealthy for Sensitive Groups,43.35,77.4667
-Dominican Republic,Bayaguana,129,Unhealthy for Sensitive Groups,4,Good,2,Good,17,Good,129,Unhealthy for Sensitive Groups,18.75,-69.6333
 Greece,Arta,129,Unhealthy for Sensitive Groups,1,Good,42,Good,0,Good,129,Unhealthy for Sensitive Groups,11.5236,42.8472
 Guatemala,Ciudad Vieja,129,Unhealthy for Sensitive Groups,3,Good,2,Good,12,Good,129,Unhealthy for Sensitive Groups,14.5233,-90.7667
-France,Seynod,128,Unhealthy for Sensitive Groups,2,Good,26,Good,3,Good,128,Unhealthy for Sensitive Groups,45.8889,6.0961
 Switzerland,Geneva,128,Unhealthy for Sensitive Groups,1,Good,28,Good,2,Good,128,Unhealthy for Sensitive Groups,46.2017,6.1469
-Uganda,Bombo,127,Unhealthy for Sensitive Groups,3,Good,13,Good,1,Good,127,Unhealthy for Sensitive Groups,0.5778,32.545
-Australia,Broken Hill,126,Unhealthy for Sensitive Groups,0,Good,15,Good,0,Good,126,Unhealthy for Sensitive Groups,-31.95,141.4667
-Brazil,Volta Redonda,125,Unhealthy for Sensitive Groups,4,Good,2,Good,9,Good,125,Unhealthy for Sensitive Groups,-22.5228,-44.1039
-China,Gaozhou,125,Unhealthy for Sensitive Groups,3,Good,13,Good,20,Good,125,Unhealthy for Sensitive Groups,21.9135,110.8481
-Colombia,Caldas,125,Unhealthy for Sensitive Groups,4,Good,0,Good,8,Good,125,Unhealthy for Sensitive Groups,6.09,-75.638
-Dominican Republic,La Romana,125,Unhealthy for Sensitive Groups,1,Good,18,Good,2,Good,125,Unhealthy for Sensitive Groups,18.43,-68.97
-Guatemala,Antigua Guatemala,125,Unhealthy for Sensitive Groups,4,Good,3,Good,13,Good,125,Unhealthy for Sensitive Groups,14.5667,-90.7333
-India,Bilgi,125,Unhealthy for Sensitive Groups,1,Good,32,Good,1,Good,125,Unhealthy for Sensitive Groups,16.3472,75.6181
-Italy,San Martino Buon Albergo,125,Unhealthy for Sensitive Groups,2,Good,31,Good,6,Good,125,Unhealthy for Sensitive Groups,45.4167,11.1
 Jamaica,May Pen,125,Unhealthy for Sensitive Groups,2,Good,16,Good,7,Good,125,Unhealthy for Sensitive Groups,17.965,-77.245
-Japan,Hashima,125,Unhealthy for Sensitive Groups,3,Good,10,Good,23,Good,125,Unhealthy for Sensitive Groups,35.3199,136.7033
-Mexico,Acatzingo,125,Unhealthy for Sensitive Groups,2,Good,11,Good,8,Good,125,Unhealthy for Sensitive Groups,18.9817,-97.7822
-Nepal,Bhaktapur,125,Unhealthy for Sensitive Groups,2,Good,61,Moderate,0,Good,125,Unhealthy for Sensitive Groups,27.6722,85.4278
-Pakistan,Quetta,125,Unhealthy for Sensitive Groups,0,Good,42,Good,0,Good,125,Unhealthy for Sensitive Groups,30.1833,67
-United States of America,Montebello,125,Unhealthy for Sensitive Groups,4,Good,4,Good,36,Good,125,Unhealthy for Sensitive Groups,34.0155,-118.1108
 Zambia,Senanga,125,Unhealthy for Sensitive Groups,2,Good,22,Good,2,Good,125,Unhealthy for Sensitive Groups,-16.1167,23.2667
-Iran (Islamic Republic of),Tafresh,125,Unhealthy for Sensitive Groups,2,Good,125,Unhealthy for Sensitive Groups,1,Good,82,Moderate,34.6919,50.0131
 Cameroon,Loum,124,Unhealthy for Sensitive Groups,5,Good,13,Good,1,Good,124,Unhealthy for Sensitive Groups,4.718,9.73
-Haiti,Delmas,124,Unhealthy for Sensitive Groups,2,Good,15,Good,5,Good,124,Unhealthy for Sensitive Groups,18.55,-72.3
-Uzbekistan,Iskandar,124,Unhealthy for Sensitive Groups,1,Good,58,Moderate,2,Good,124,Unhealthy for Sensitive Groups,41.5581,69.7047
-Indonesia,Karawang,124,Unhealthy for Sensitive Groups,3,Good,124,Unhealthy for Sensitive Groups,1,Good,91,Moderate,-6.3125,107.295
-El Salvador,Cojutepeque,123,Unhealthy for Sensitive Groups,4,Good,1,Good,16,Good,123,Unhealthy for Sensitive Groups,13.7167,-88.9333
 Kyrgyzstan,Batken,123,Unhealthy for Sensitive Groups,1,Good,41,Good,0,Good,123,Unhealthy for Sensitive Groups,40.0667,70.8167
-Namibia,Keetmanshoop,123,Unhealthy for Sensitive Groups,0,Good,18,Good,0,Good,123,Unhealthy for Sensitive Groups,-26.5786,18.1333
 Republic of North Macedonia,Prilep,123,Unhealthy for Sensitive Groups,1,Good,39,Good,0,Good,123,Unhealthy for Sensitive Groups,41.3464,21.5542
-South Africa,Benoni,123,Unhealthy for Sensitive Groups,15,Good,20,Good,12,Good,123,Unhealthy for Sensitive Groups,-26.1883,28.3206
-Turkmenistan,Kaka,123,Unhealthy for Sensitive Groups,1,Good,40,Good,0,Good,123,Unhealthy for Sensitive Groups,37.35,59.6
-,Goudomp,123,Unhealthy for Sensitive Groups,1,Good,26,Good,0,Good,123,Unhealthy for Sensitive Groups,12.5778,-15.8722
-Chile,Rancagua,122,Unhealthy for Sensitive Groups,3,Good,3,Good,6,Good,122,Unhealthy for Sensitive Groups,-34.1667,-70.75
-Senegal,Bignona,122,Unhealthy for Sensitive Groups,1,Good,22,Good,1,Good,122,Unhealthy for Sensitive Groups,12.8167,-16.2333
-Democratic Republic of the Congo,Yangambi,121,Unhealthy for Sensitive Groups,4,Good,24,Good,0,Good,121,Unhealthy for Sensitive Groups,0.7675,24.4414
 Netherlands,Willemstad,121,Unhealthy for Sensitive Groups,0,Good,22,Good,0,Good,121,Unhealthy for Sensitive Groups,12.108,-68.935
 Turkey,Cizre,121,Unhealthy for Sensitive Groups,2,Good,49,Good,2,Good,121,Unhealthy for Sensitive Groups,37.332,42.187
-Ghana,Tema,120,Unhealthy for Sensitive Groups,3,Good,10,Good,3,Good,120,Unhealthy for Sensitive Groups,5.6667,-0.0167
 Guinea-Bissau,Cacheu,120,Unhealthy for Sensitive Groups,1,Good,27,Good,1,Good,120,Unhealthy for Sensitive Groups,12.2667,-16.1667
-Philippines,Cardona,120,Unhealthy for Sensitive Groups,2,Good,30,Good,6,Good,120,Unhealthy for Sensitive Groups,14.4861,121.2289
-Somalia,Qandala,120,Unhealthy for Sensitive Groups,0,Good,20,Good,0,Good,120,Unhealthy for Sensitive Groups,11.4711,49.8739
-Rwanda,Byumba,119,Unhealthy for Sensitive Groups,2,Good,30,Good,1,Good,119,Unhealthy for Sensitive Groups,-1.5761,30.0675
-France,Meyzieu,118,Unhealthy for Sensitive Groups,2,Good,24,Good,4,Good,118,Unhealthy for Sensitive Groups,45.7667,5.0036
-Iraq,Balad,118,Unhealthy for Sensitive Groups,1,Good,85,Moderate,2,Good,118,Unhealthy for Sensitive Groups,34.0164,44.1453
 Serbia,Novi Sad,118,Unhealthy for Sensitive Groups,1,Good,42,Good,1,Good,118,Unhealthy for Sensitive Groups,45.2542,19.8425
-Uganda,Buwenge,118,Unhealthy for Sensitive Groups,3,Good,16,Good,1,Good,118,Unhealthy for Sensitive Groups,0.6503,33.1703
-Venezuela (Bolivarian Republic of),Maracaibo,118,Unhealthy for Sensitive Groups,1,Good,17,Good,4,Good,118,Unhealthy for Sensitive Groups,10.6333,-71.6333
-Israel,Or Yehuda,117,Unhealthy for Sensitive Groups,2,Good,42,Good,9,Good,117,Unhealthy for Sensitive Groups,32.0333,34.85
-Kenya,Homa Bay,117,Unhealthy for Sensitive Groups,3,Good,33,Good,1,Good,117,Unhealthy for Sensitive Groups,-0.5167,34.45
-Lesotho,Mafeteng,117,Unhealthy for Sensitive Groups,4,Good,14,Good,7,Good,117,Unhealthy for Sensitive Groups,-29.8167,27.25
-Niger,Zinder,117,Unhealthy for Sensitive Groups,2,Good,33,Good,1,Good,117,Unhealthy for Sensitive Groups,13.8053,8.9883
-Nigeria,Lafia,117,Unhealthy for Sensitive Groups,4,Good,20,Good,1,Good,117,Unhealthy for Sensitive Groups,8.5,8.5167
 Albania,Peshkopi,115,Unhealthy for Sensitive Groups,1,Good,39,Good,0,Good,115,Unhealthy for Sensitive Groups,41.6833,20.4281
 Congo,Brazzaville,115,Unhealthy for Sensitive Groups,5,Good,31,Good,2,Good,115,Unhealthy for Sensitive Groups,-4.2694,15.2714
 Côte d'Ivoire,Agboville,114,Unhealthy for Sensitive Groups,3,Good,11,Good,3,Good,114,Unhealthy for Sensitive Groups,5.9333,-4.2167
 Kingdom of Eswatini,Mbabane,114,Unhealthy for Sensitive Groups,2,Good,21,Good,3,Good,114,Unhealthy for Sensitive Groups,-26.3208,31.1617
-Peru,Chancay,114,Unhealthy for Sensitive Groups,3,Good,15,Good,7,Good,114,Unhealthy for Sensitive Groups,-11.5653,-77.2714
-Russian Federation,Yasnyy,114,Unhealthy for Sensitive Groups,1,Good,33,Good,0,Good,114,Unhealthy for Sensitive Groups,51.05,59.9667
-Mali,Kayes,113,Unhealthy for Sensitive Groups,1,Good,28,Good,1,Good,113,Unhealthy for Sensitive Groups,14.45,-11.4167
 Poland,Zabrze,113,Unhealthy for Sensitive Groups,2,Good,22,Good,12,Good,113,Unhealthy for Sensitive Groups,50.3025,18.7781
-Switzerland,Wetzikon,113,Unhealthy for Sensitive Groups,1,Good,28,Good,2,Good,113,Unhealthy for Sensitive Groups,47.3167,8.8
 Cuba,Abreus,112,Unhealthy for Sensitive Groups,1,Good,21,Good,3,Good,112,Unhealthy for Sensitive Groups,22.2806,-80.5678
-Thailand,Chaiyo,112,Unhealthy for Sensitive Groups,2,Good,12,Good,8,Good,112,Unhealthy for Sensitive Groups,14.6666,100.4702
-Ethiopia,Dire Dawa,111,Unhealthy for Sensitive Groups,1,Good,23,Good,1,Good,111,Unhealthy for Sensitive Groups,9.6,41.8667
-Gambia,Farafenni,111,Unhealthy for Sensitive Groups,1,Good,24,Good,1,Good,111,Unhealthy for Sensitive Groups,13.5667,-15.6
-Tajikistan,Chkalovsk,111,Unhealthy for Sensitive Groups,1,Good,44,Good,0,Good,111,Unhealthy for Sensitive Groups,56.7667,43.2333
-Cameroon,Mbouda,110,Unhealthy for Sensitive Groups,4,Good,12,Good,2,Good,110,Unhealthy for Sensitive Groups,5.6333,10.25
-Chad,Massaguet,110,Unhealthy for Sensitive Groups,2,Good,33,Good,1,Good,110,Unhealthy for Sensitive Groups,12.4742,15.4428
-Colombia,Soledad,110,Unhealthy for Sensitive Groups,1,Good,17,Good,3,Good,110,Unhealthy for Sensitive Groups,10.9167,-74.75
-Dominican Republic,Jarabacoa,110,Unhealthy for Sensitive Groups,1,Good,38,Good,0,Good,110,Unhealthy for Sensitive Groups,19.1167,-70.6333
-El Salvador,Puerto El Triunfo,110,Unhealthy for Sensitive Groups,2,Good,34,Good,6,Good,110,Unhealthy for Sensitive Groups,13.2833,-88.55
-France,Annecy,110,Unhealthy for Sensitive Groups,2,Good,16,Good,5,Good,110,Unhealthy for Sensitive Groups,45.916,6.133
-Ghana,Akropong,110,Unhealthy for Sensitive Groups,3,Good,14,Good,2,Good,110,Unhealthy for Sensitive Groups,5.9742,-0.0881
-India,Umarkhed,110,Unhealthy for Sensitive Groups,1,Good,35,Good,0,Good,110,Unhealthy for Sensitive Groups,19.6,77.7
-Italy,Treviglio,110,Unhealthy for Sensitive Groups,2,Good,30,Good,7,Good,110,Unhealthy for Sensitive Groups,45.5214,9.5928
-Kenya,Kapsabet,110,Unhealthy for Sensitive Groups,3,Good,16,Good,3,Good,110,Unhealthy for Sensitive Groups,0.3333,35.1667
-Mexico,El Rosario,110,Unhealthy for Sensitive Groups,2,Good,11,Good,3,Good,110,Unhealthy for Sensitive Groups,22.9922,-105.8572
-Peru,Lima,110,Unhealthy for Sensitive Groups,4,Good,16,Good,9,Good,110,Unhealthy for Sensitive Groups,-12.06,-77.0375
-Tajikistan,Panjakent,110,Unhealthy for Sensitive Groups,1,Good,45,Good,0,Good,110,Unhealthy for Sensitive Groups,39.5,67.6167
-Uganda,Kampala,110,Unhealthy for Sensitive Groups,4,Good,18,Good,2,Good,110,Unhealthy for Sensitive Groups,0.3136,32.5811
-United States of America,Signal Hill,110,Unhealthy for Sensitive Groups,4,Good,5,Good,36,Good,110,Unhealthy for Sensitive Groups,33.803,-118.1681
-Brazil,Sombrio,109,Unhealthy for Sensitive Groups,3,Good,13,Good,4,Good,109,Unhealthy for Sensitive Groups,-29.1039,-49.6289
-China,Taitung,109,Unhealthy for Sensitive Groups,2,Good,109,Unhealthy for Sensitive Groups,0,Good,109,Unhealthy for Sensitive Groups,22.7583,121.1444
-Guatemala,Chimaltenango,109,Unhealthy for Sensitive Groups,3,Good,9,Good,11,Good,109,Unhealthy for Sensitive Groups,14.6622,-90.8208
-Indonesia,Lahat,109,Unhealthy for Sensitive Groups,4,Good,3,Good,6,Good,109,Unhealthy for Sensitive Groups,-3.797,103.522
-Japan,Matsumoto,109,Unhealthy for Sensitive Groups,3,Good,9,Good,12,Good,109,Unhealthy for Sensitive Groups,36.238,137.972
-Uzbekistan,Ohangaron,109,Unhealthy for Sensitive Groups,1,Good,64,Moderate,1,Good,109,Unhealthy for Sensitive Groups,40.9061,69.6444
-Nigeria,Ilorin,108,Unhealthy for Sensitive Groups,3,Good,26,Good,1,Good,108,Unhealthy for Sensitive Groups,8.5,4.55
-,Menton,108,Unhealthy for Sensitive Groups,2,Good,28,Good,4,Good,108,Unhealthy for Sensitive Groups,43.775,7.5
-Malaysia,Johor Bahru,107,Unhealthy for Sensitive Groups,1,Good,35,Good,3,Good,107,Unhealthy for Sensitive Groups,1.4556,103.7611
-Rwanda,Kigali,107,Unhealthy for Sensitive Groups,2,Good,29,Good,1,Good,107,Unhealthy for Sensitive Groups,-1.9536,30.0606
-South Africa,Lichtenburg,107,Unhealthy for Sensitive Groups,3,Good,17,Good,6,Good,107,Unhealthy for Sensitive Groups,-26.15,26.1667
-Algeria,Adrar,106,Unhealthy for Sensitive Groups,0,Good,45,Good,0,Good,106,Unhealthy for Sensitive Groups,27.8742,-0.2939
-Chile,La Ligua,106,Unhealthy for Sensitive Groups,6,Good,1,Good,15,Good,106,Unhealthy for Sensitive Groups,-32.45,-71.2167
-Cuba,Corralillo,106,Unhealthy for Sensitive Groups,1,Good,25,Good,0,Good,106,Unhealthy for Sensitive Groups,22.9856,-80.5831
-Ethiopia,Gelemso,106,Unhealthy for Sensitive Groups,1,Good,22,Good,0,Good,106,Unhealthy for Sensitive Groups,8.8167,40.5167
-Jamaica,Montego Bay,106,Unhealthy for Sensitive Groups,1,Good,19,Good,3,Good,106,Unhealthy for Sensitive Groups,18.4667,-77.9167
-Russian Federation,Raychikhinsk,106,Unhealthy for Sensitive Groups,2,Good,41,Good,1,Good,106,Unhealthy for Sensitive Groups,49.7833,129.4167
-Côte d'Ivoire,Abidjan,105,Unhealthy for Sensitive Groups,4,Good,15,Good,4,Good,105,Unhealthy for Sensitive Groups,5.3167,-4.0333
-Serbia,Srbobran,105,Unhealthy for Sensitive Groups,1,Good,45,Good,0,Good,105,Unhealthy for Sensitive Groups,45.5333,19.7833
 Sri Lanka,Nuwara Eliya,105,Unhealthy for Sensitive Groups,2,Good,10,Good,7,Good,105,Unhealthy for Sensitive Groups,6.9667,80.7667
-Venezuela (Bolivarian Republic of),Maracay,105,Unhealthy for Sensitive Groups,2,Good,9,Good,14,Good,105,Unhealthy for Sensitive Groups,10.2469,-67.5958
-Viet Nam,Vinh,105,Unhealthy for Sensitive Groups,4,Good,27,Good,6,Good,105,Unhealthy for Sensitive Groups,18.6667,105.6667
-Kyrgyzstan,Isfana,104,Unhealthy for Sensitive Groups,1,Good,41,Good,0,Good,104,Unhealthy for Sensitive Groups,39.8389,69.5275
 Papua New Guinea,Kokopo,104,Unhealthy for Sensitive Groups,0,Good,22,Good,0,Good,104,Unhealthy for Sensitive Groups,-4.35,152.2736
-Poland,Tychy,104,Unhealthy for Sensitive Groups,2,Good,28,Good,8,Good,104,Unhealthy for Sensitive Groups,50.1236,18.9867
-Angola,Saurimo,103,Unhealthy for Sensitive Groups,2,Good,31,Good,1,Good,103,Unhealthy for Sensitive Groups,-9.65,20.4
-Democratic Republic of the Congo,Mangai,103,Unhealthy for Sensitive Groups,5,Good,31,Good,0,Good,103,Unhealthy for Sensitive Groups,-4.0499,19.5333
-Philippines,Paombong,103,Unhealthy for Sensitive Groups,3,Good,27,Good,7,Good,103,Unhealthy for Sensitive Groups,14.8311,120.7892
-Switzerland,Aarau,103,Unhealthy for Sensitive Groups,1,Good,27,Good,2,Good,103,Unhealthy for Sensitive Groups,47.4,8.05
 Ukraine,Horodok,103,Unhealthy for Sensitive Groups,1,Good,39,Good,1,Good,103,Unhealthy for Sensitive Groups,49.1667,26.5667
-Australia,Darwin,102,Unhealthy for Sensitive Groups,2,Good,58,Moderate,1,Good,102,Unhealthy for Sensitive Groups,-12.4381,130.8411
-Haiti,Les Cayes,102,Unhealthy for Sensitive Groups,1,Good,31,Good,0,Good,102,Unhealthy for Sensitive Groups,18.2,-73.75
 Benin,Dogbo,101,Unhealthy for Sensitive Groups,3,Good,18,Good,2,Good,101,Unhealthy for Sensitive Groups,6.8167,1.7833
-Pakistan,Kohat,101,Unhealthy for Sensitive Groups,1,Good,62,Moderate,0,Good,101,Unhealthy for Sensitive Groups,33.5833,71.4333
 Armenia,Masis,100,Unhealthy for Sensitive Groups,1,Good,40,Good,0,Good,100,Unhealthy for Sensitive Groups,40.0633,44.4408
 Mongolia,Hovd,100,Unhealthy for Sensitive Groups,0,Good,34,Good,0,Good,100,Unhealthy for Sensitive Groups,48.0042,91.6406
-Democratic Republic of the Congo,Mbandaka,99,Moderate,3,Good,11,Good,0,Good,99,Moderate,0.0478,18.2558
-Indonesia,Pasuruan,99,Moderate,1,Good,43,Good,1,Good,99,Moderate,-7.6406,112.9065
-Kenya,Kisii,99,Moderate,3,Good,25,Good,1,Good,99,Moderate,-0.6833,34.7667
-Poland,Limanowa,99,Moderate,1,Good,32,Good,2,Good,99,Moderate,49.7006,20.4267
-Russian Federation,Zavitinsk,99,Moderate,2,Good,43,Good,0,Good,99,Moderate,50.1281,129.4433
-Thailand,Suwannaphum,99,Moderate,2,Good,15,Good,5,Good,99,Moderate,15.6078,103.8
-Chile,Parral,98,Moderate,3,Good,3,Good,5,Good,98,Moderate,26.9333,-105.6667
 Jordan,Kuraymah,98,Moderate,1,Good,46,Good,4,Good,98,Moderate,18.55,31.85
-Mexico,Huixtla,98,Moderate,4,Good,9,Good,8,Good,98,Moderate,15.1,-92.5333
-Nigeria,Damaturu,98,Moderate,2,Good,46,Good,0,Good,98,Moderate,11.7444,11.9611
-Switzerland,Zofingen,98,Moderate,1,Good,28,Good,2,Good,98,Moderate,47.2833,7.9333
-Brazil,Itabirito,97,Moderate,2,Good,4,Good,7,Good,97,Moderate,-20.2528,-43.8008
 Burundi,Bururi,97,Moderate,3,Good,16,Good,1,Good,97,Moderate,-3.95,29.6167
-Israel,Ashdod,97,Moderate,2,Good,42,Good,7,Good,97,Moderate,31.8,34.65
-Malaysia,Petaling Jaya,97,Moderate,2,Good,48,Good,1,Good,97,Moderate,3.0972,101.6444
-Namibia,Mariental,97,Moderate,1,Good,20,Good,0,Good,97,Moderate,-24.6333,17.9667
 Bosnia and Herzegovina,Livno,96,Moderate,1,Good,41,Good,0,Good,96,Moderate,43.8269,17.0081
 Estonia,Tallinn,96,Moderate,3,Good,25,Good,5,Good,96,Moderate,59.4372,24.7453
-Iran (Islamic Republic of),Taft,96,Moderate,0,Good,40,Good,0,Good,96,Moderate,11.9058,125.4181
-Mali,Mopti,96,Moderate,1,Good,17,Good,1,Good,96,Moderate,14.49,-4.18
-Paraguay,Limpio,96,Moderate,2,Good,4,Good,4,Good,96,Moderate,-25.1683,-57.4942
-Somalia,Hargeysa,96,Moderate,0,Good,19,Good,0,Good,96,Moderate,9.5631,44.0675
 Azerbaijan,Zabrat,95,Moderate,1,Good,36,Good,0,Good,95,Moderate,40.4872,49.9525
-Cuba,Esmeralda,95,Moderate,1,Good,26,Good,1,Good,95,Moderate,21.8561,-78.1114
-Ethiopia,Mojo,95,Moderate,1,Good,26,Good,0,Good,95,Moderate,8.65,39.0833
-Uganda,Wakiso,95,Moderate,4,Good,16,Good,2,Good,95,Moderate,0.3981,32.4781
-Uzbekistan,Kosonsoy,95,Moderate,1,Good,54,Moderate,0,Good,95,Moderate,41.25,71.55
-Congo,Sibiti,94,Moderate,2,Good,23,Good,0,Good,94,Moderate,-3.6858,13.3458
 Costa Rica,San Rafael Abajo,94,Moderate,3,Good,4,Good,14,Good,94,Moderate,9.8943,-84.0837
 Germany,Wehr,94,Moderate,1,Good,25,Good,3,Good,94,Moderate,47.6297,7.9044
-Nepal,Pokhara,94,Moderate,2,Good,24,Good,1,Good,94,Moderate,28.2083,83.9889
-Rwanda,Kibuye,94,Moderate,4,Good,21,Good,2,Good,94,Moderate,-2.0617,29.3483
 Spain,Marratxi,94,Moderate,1,Good,49,Good,1,Good,94,Moderate,39.6421,2.7527
 Sudan,Kassala,93,Moderate,1,Good,37,Good,0,Good,93,Moderate,15.45,36.4
-Trinidad and Tobago,Point Fortin,93,Moderate,1,Good,22,Good,2,Good,93,Moderate,10.1667,-61.6667
 Zimbabwe,Bindura,93,Moderate,5,Good,14,Good,3,Good,93,Moderate,-17.3,31.3333
-Angola,Benguela,92,Moderate,3,Good,12,Good,2,Good,92,Moderate,-12.55,13.4167
 Honduras,La Lima,92,Moderate,2,Good,3,Good,3,Good,92,Moderate,15.433,-87.917
-Peru,Chilca,92,Moderate,2,Good,16,Good,5,Good,92,Moderate,-12.5208,-76.7369
-Albania,Berat,91,Moderate,1,Good,47,Good,0,Good,91,Moderate,40.7,19.95
-Algeria,Timizart,91,Moderate,3,Good,28,Good,18,Good,91,Moderate,36.8,4.2667
 Singapore,Singapore,91,Moderate,1,Good,29,Good,4,Good,91,Moderate,1.3,103.8
-Turkey,Tire,91,Moderate,1,Good,51,Moderate,1,Good,91,Moderate,38.0833,27.7333
 Argentina,Villeta,90,Moderate,2,Good,5,Good,3,Good,90,Moderate,5.0083,-74.4738
-China,Guilin,90,Moderate,3,Good,46,Good,3,Good,90,Moderate,25.2819,110.2864
-Dominican Republic,Fantino,90,Moderate,2,Good,5,Good,15,Good,90,Moderate,19.12,-70.3
-El Salvador,Izalco,90,Moderate,2,Good,22,Good,9,Good,90,Moderate,13.7333,-89.6667
-Guatemala,Chiquimulilla,90,Moderate,4,Good,2,Good,11,Good,90,Moderate,14.0858,-90.3822
-Guinea,Pita,90,Moderate,1,Good,19,Good,0,Good,90,Moderate,11.08,-12.401
-India,Ichalkaranji,90,Moderate,0,Good,24,Good,0,Good,90,Moderate,16.7,74.47
-Italy,Biella,90,Moderate,1,Good,40,Good,2,Good,90,Moderate,45.5667,8.0667
-Japan,Taketoyo,90,Moderate,2,Good,27,Good,14,Good,90,Moderate,34.8511,136.9147
-Philippines,Sibulan,90,Moderate,1,Good,15,Good,0,Good,90,Moderate,9.35,123.2833
 Saint Kitts and Nevis,Basseterre,90,Moderate,1,Good,25,Good,0,Good,90,Moderate,17.3,-62.7333
-South Africa,Ulundi,90,Moderate,5,Good,27,Good,2,Good,90,Moderate,-28.335,31.4161
-Tajikistan,Tursunzoda,90,Moderate,1,Good,66,Moderate,0,Good,90,Moderate,38.5108,68.2303
-United States of America,Harrison,90,Moderate,1,Good,25,Good,2,Good,90,Moderate,40.7431,-74.1531
-,Durban,90,Moderate,3,Good,25,Good,4,Good,90,Moderate,-29.8833,31.05
-Cameroon,Buea,89,Moderate,3,Good,20,Good,1,Good,89,Moderate,4.1667,9.2333
-Colombia,Guamo,89,Moderate,3,Good,3,Good,6,Good,89,Moderate,4.0833,-74.9167
-Ghana,Swedru,89,Moderate,1,Good,19,Good,0,Good,89,Moderate,5.5306,-0.7028
-Sri Lanka,Moratuwa,89,Moderate,1,Good,20,Good,3,Good,89,Moderate,6.7991,79.8767
-Ukraine,Korostyshiv,89,Moderate,1,Good,39,Good,0,Good,89,Moderate,50.3186,29.0592
 Czechia,Opava,88,Moderate,1,Good,41,Good,1,Good,88,Moderate,49.9381,17.9044
-Eritrea,Asmara,88,Moderate,1,Good,29,Good,0,Good,88,Moderate,15.3228,38.925
-Greece,Panorama,88,Moderate,1,Good,44,Good,0,Good,88,Moderate,-21.3564,-51.86
-Niger,Ayorou,87,Moderate,1,Good,20,Good,1,Good,87,Moderate,14.735,0.92
-Panama,Tocumen,87,Moderate,2,Good,15,Good,10,Good,87,Moderate,9.08,-79.38
-Serbia,Zrenjanin,87,Moderate,1,Good,40,Good,3,Good,87,Moderate,45.3833,20.3894
-Venezuela (Bolivarian Republic of),Cabimas,87,Moderate,1,Good,20,Good,4,Good,87,Moderate,10.4,-71.4333
 Bulgaria,Botevgrad,86,Moderate,1,Good,46,Good,1,Good,86,Moderate,42.9073,23.7937
 Central African Republic,Kabo,86,Moderate,2,Good,9,Good,0,Good,86,Moderate,7.6994,18.6292
 Hungary,Dabas,86,Moderate,1,Good,37,Good,3,Good,86,Moderate,47.189,19.3126
-Nicaragua,El Viejo,86,Moderate,1,Good,18,Good,3,Good,86,Moderate,12.6631,-87.1694
-Republic of North Macedonia,Lipkovo,86,Moderate,1,Good,47,Good,0,Good,86,Moderate,42.1553,21.5875
 State of Palestine,Jerusalem,86,Moderate,1,Good,85,Moderate,2,Good,86,Moderate,31.7784,35.2066
-Viet Nam,Ho Chi Minh City,86,Moderate,2,Good,35,Good,2,Good,86,Moderate,10.7756,106.7019
 Slovenia,Celje,85,Moderate,1,Good,41,Good,3,Good,85,Moderate,46.2358,15.2675
-France,Palaiseau,84,Moderate,3,Good,16,Good,10,Good,84,Moderate,48.7145,2.2457
-Gabon,Mouila,84,Moderate,2,Good,13,Good,0,Good,84,Moderate,-1.8639,11.0575
-Kyrgyzstan,Toktogul,84,Moderate,0,Good,41,Good,0,Good,84,Moderate,41.8722,72.9389
 South Sudan,Tonj,84,Moderate,2,Good,4,Good,0,Good,84,Moderate,7.28,28.68
 Canada,Amherstburg,83,Moderate,1,Good,42,Good,8,Good,83,Moderate,42.1,-83.0833
-Kazakhstan,Almaty,83,Moderate,1,Good,46,Good,1,Good,83,Moderate,43.2775,76.8958
 Morocco,Rabat,83,Moderate,3,Good,23,Good,15,Good,83,Moderate,34.0209,-6.8416
 Slovakia,Senec,82,Moderate,1,Good,35,Good,2,Good,82,Moderate,48.2189,17.3997
 Burkina Faso,Ouahigouya,81,Moderate,1,Good,35,Good,0,Good,81,Moderate,13.5833,-2.4167
-Chad,Sarh,81,Moderate,2,Good,10,Good,0,Good,81,Moderate,9.15,18.3833
-Egypt,Cairo,81,Moderate,2,Good,53,Moderate,5,Good,81,Moderate,30.0444,31.2358
-Yemen,Aden,81,Moderate,1,Good,41,Good,0,Good,81,Moderate,12.8,45.0333
-Benin,Abomey,80,Moderate,1,Good,21,Good,1,Good,80,Moderate,7.1856,1.9881
-Pakistan,Muzaffarabad,80,Moderate,1,Good,80,Moderate,0,Good,60,Moderate,34.3583,73.4722
 Botswana,Palapye,79,Moderate,2,Good,14,Good,1,Good,79,Moderate,-22.55,27.1333
-Ecuador,El Carmen,79,Moderate,3,Good,5,Good,9,Good,79,Moderate,13.7167,-88.9
 Saint Lucia,Castries,79,Moderate,0,Good,26,Good,0,Good,79,Moderate,14.0167,-60.9833
 United Kingdom of Great Britain and Northern Ireland,Falmouth,78,Moderate,0,Good,37,Good,0,Good,78,Moderate,50.15,-5.07
-Lesotho,Quthing,77,Moderate,1,Good,9,Good,2,Good,77,Moderate,-30.4001,27.7002
 Sierra Leone,Kambia,77,Moderate,2,Good,18,Good,1,Good,77,Moderate,9.1167,-12.9167
 Togo,Sotouboua,77,Moderate,1,Good,19,Good,0,Good,77,Moderate,8.5667,0.9833
 Syrian Arab Republic,Damascus,77,Moderate,1,Good,77,Moderate,1,Good,59,Moderate,33.5131,36.2919
 Croatia,Velika Gorica,76,Moderate,1,Good,67,Moderate,0,Good,76,Moderate,45.7,16.0667
-Zambia,Mumbwa,76,Moderate,2,Good,17,Good,1,Good,76,Moderate,-14.9853,27.0619
 Austria,Wels,75,Moderate,1,Good,55,Moderate,0,Good,75,Moderate,48.15,14.0167
-Kingdom of Eswatini,Manzini,75,Moderate,3,Good,15,Good,1,Good,75,Moderate,-26.4833,31.3667
-Haiti,Dessalines,74,Moderate,2,Good,24,Good,3,Good,74,Moderate,19.2833,-72.5
 Romania,Pecica,74,Moderate,1,Good,35,Good,1,Good,74,Moderate,46.17,21.07
-Bangladesh,Sakhipur,74,Moderate,3,Good,74,Moderate,2,Good,63,Moderate,24.3167,90.175
 Barbados,Bridgetown,73,Moderate,0,Good,24,Good,0,Good,73,Moderate,13.0975,-59.6167
-Côte d'Ivoire,Bongouanou,73,Moderate,1,Good,15,Good,0,Good,73,Moderate,6.65,-4.2
 Cambodia,Ta Khmau,73,Moderate,1,Good,7,Good,5,Good,73,Moderate,11.4833,104.95
 Madagascar,Ifanadiana,73,Moderate,2,Good,9,Good,1,Good,73,Moderate,-21.3,47.6333
 Sweden,Nybro,73,Moderate,1,Good,46,Good,0,Good,73,Moderate,56.7333,15.9
@@ -507,7 +139,6 @@ Myanmar,Mandalay,71,Moderate,2,Good,7,Good,3,Good,71,Moderate,21.9831,96.0844
 Malawi,Mangochi,70,Moderate,2,Good,25,Good,0,Good,70,Moderate,-14.4667,35.2667
 New Zealand,Waitakere,70,Moderate,0,Good,30,Good,0,Good,70,Moderate,-36.85,174.543
 Malta,Mosta,70,Moderate,1,Good,70,Moderate,0,Good,42,Good,35.9097,14.4261
-Libya,Yafran,69,Moderate,1,Good,69,Moderate,1,Good,66,Moderate,32.0629,12.5267
 Montenegro,Podgorica,68,Moderate,1,Good,30,Good,1,Good,68,Moderate,42.4413,19.2629
 Belgium,Hoeilaart,67,Moderate,1,Good,28,Good,7,Good,67,Moderate,50.7667,4.4667
 Bolivia (Plurinational State of),Portachuelo,67,Moderate,1,Good,15,Good,0,Good,67,Moderate,-17.3572,-63.3906
@@ -515,21 +146,14 @@ Republic of Moldova,Glodeni,67,Moderate,1,Good,45,Good,0,Good,67,Moderate,47.766
 Mozambique,Matola,66,Moderate,2,Good,20,Good,1,Good,66,Moderate,-25.9667,32.4667
 Georgia,Borjomi,65,Moderate,1,Good,32,Good,0,Good,65,Moderate,41.8389,43.3792
 Suriname,Nieuw Nickerie,65,Moderate,1,Good,20,Good,0,Good,65,Moderate,5.9333,-56.9833
-Afghanistan,Kabul,64,Moderate,0,Good,41,Good,0,Good,64,Moderate,34.5253,69.1783
-Jamaica,Portmore,64,Moderate,1,Good,20,Good,3,Good,64,Moderate,17.95,-76.8799
 Lebanon,Beirut,64,Moderate,1,Good,49,Good,2,Good,64,Moderate,33.8869,35.5131
-United Republic of Tanzania,Ngara,64,Moderate,3,Good,14,Good,1,Good,64,Moderate,-2.5122,30.6558
 Guyana,New Amsterdam,61,Moderate,0,Good,20,Good,0,Good,61,Moderate,6.25,-57.5167
 Mauritius,Grand Baie,61,Moderate,1,Good,27,Good,0,Good,61,Moderate,-20.0184,57.5802
-Netherlands,Beek,61,Moderate,1,Good,28,Good,6,Good,61,Moderate,50.9333,5.8
 Liberia,Monrovia,60,Moderate,1,Good,17,Good,0,Good,60,Moderate,6.3133,-10.8014
 Belize,Belmopan,59,Moderate,1,Good,24,Good,0,Good,59,Moderate,17.2514,-88.7669
 Ireland,Drogheda,58,Moderate,1,Good,24,Good,4,Good,58,Moderate,53.715,-6.3525
-Australia,Melton,57,Moderate,1,Good,2,Good,18,Good,57,Moderate,-37.6833,144.5833
-Turkmenistan,Akdepe,57,Moderate,1,Good,43,Good,0,Good,57,Moderate,42.05,59.4
 Tunisia,Tabursuq,57,Moderate,1,Good,57,Moderate,0,Good,27,Good,36.4572,9.2483
 Monaco,Beausoleil,56,Moderate,1,Good,56,Moderate,1,Good,42,Good,43.7419,7.4236
-Finland,Vaasa,55,Moderate,1,Good,28,Good,2,Good,55,Moderate,63.1,21.6167
 Latvia,Salaspils,55,Moderate,1,Good,31,Good,1,Good,55,Moderate,56.8667,24.35
 Belarus,Lyuban,52,Moderate,1,Good,28,Good,1,Good,52,Moderate,52.7819,28.0525
 Equatorial Guinea,Aconibe,52,Moderate,1,Good,20,Good,0,Good,52,Moderate,1.3,10.9333
@@ -537,7 +161,6 @@ Lithuania,Druskininkai,52,Moderate,1,Good,36,Good,0,Good,52,Moderate,54.0167,23.
 Norway,Kristiansand,52,Moderate,0,Good,34,Good,1,Good,52,Moderate,58.1472,7.9972
 Uruguay,Colonia,52,Moderate,1,Good,11,Good,3,Good,52,Moderate,9.5167,138.1333
 Lao People's Democratic Republic,Savannakhet,51,Moderate,0,Good,29,Good,0,Good,51,Moderate,16.55,104.75
-Papua New Guinea,Arawa,50,Good,0,Good,12,Good,0,Good,50,Good,-6.225,155.5667
 Cyprus,Larnaca,50,Good,1,Good,50,Good,0,Good,37,Good,34.9167,33.6333
 Portugal,Cascais,47,Good,0,Good,29,Good,3,Good,47,Good,38.7,-9.4167
 Denmark,Grenaa,47,Good,1,Good,47,Good,0,Good,12,Good,56.4161,10.8923

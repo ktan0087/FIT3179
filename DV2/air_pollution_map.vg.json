@@ -79,7 +79,7 @@
           "field": "Air pollution",
           "type": "quantitative",
           "scale": {
-            "scheme": "browns",
+            "scheme": "orangered",
             "type": "log"
           }
         },
@@ -88,7 +88,8 @@
           {
             "field": "Air pollution",
             "type": "quantitative",
-            "title": "Death by air pollution"
+            "title": "Death by air pollution",
+            "format": ".2f"
           }
         ]
       }

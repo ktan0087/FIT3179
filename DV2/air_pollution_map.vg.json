@@ -4,6 +4,19 @@
   "height": 450,
   "title": { "text": "World Air Quality Index by Country, 2023" },
   "projection": { "type": "equalEarth" },
+  "params": [
+    {
+      "name": "year_selection",
+      "value": 2019,
+      "bind": {
+        "input": "range",
+        "min": 2009,
+        "max": 2019,
+        "step": 1,
+        "name": "Year: "
+      }
+    }
+  ],
   "layer": [
     {
       "data": {
@@ -38,11 +51,11 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/DV2/data/AQI_by_countries_cleaned.csv"
+        "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/DV2/data/Death_by_air_pollution.csv"
       },
       "transform": [
         {
-          "lookup": "Country",
+          "lookup": "Entity",
           "from": {
             "data": {
               "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/W9/data/ne_110m.json",
@@ -54,21 +67,29 @@
             "key": "properties.NAME"
           },
           "as": "geo"
+        },
+        {
+          "filter": "datum.Year == year_selection"
         }
       ],
       "mark": { "type": "geoshape", "stroke": "white", "strokeWidth": 0.5 },
       "encoding": {
         "shape": { "field": "geo", "type": "geojson" },
         "color": {
-          "field": "AQI Value",
+          "field": "Air pollution",
           "type": "quantitative",
-          "scale": { "scheme": "orangered" }
+          "scale": {
+            "scheme": "browns",
+            "type": "log"
+          }
         },
         "tooltip": [
-          { "field": "City", "type": "nominal" },
-          { "field": "Country", "type": "nominal" },
-          { "field": "AQI Value", "type": "quantitative" },
-          { "field": "Ozone AQI Value", "type": "quantitative" }
+          { "field": "Entity", "type": "nominal" },
+          {
+            "field": "Air pollution",
+            "type": "quantitative",
+            "title": "Death by air pollution"
+          }
         ]
       }
     }

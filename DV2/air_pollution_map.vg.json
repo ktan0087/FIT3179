@@ -62,7 +62,7 @@
         "color": {
           "field": "AQI Value",
           "type": "quantitative",
-          "scale": { "scheme": "redyellowgreen", "reverse": true }
+          "scale": { "scheme": "orangered" }
         },
         "tooltip": [
           { "field": "City", "type": "nominal" },
@@ -72,5 +72,11 @@
         ]
       }
     }
-  ]
+  ],
+  "config": {
+    "view": {
+      "stroke": "transparent"
+    },
+    "background": "transparent"
+  }
 }

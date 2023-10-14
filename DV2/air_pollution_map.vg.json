@@ -51,7 +51,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/DV2/data/Death_by_air_pollution.csv"
+        "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/DV2/data/death_rate_by_air_pollution_per_100000.csv"
       },
       "transform": [
         {
@@ -79,8 +79,7 @@
           "field": "Air pollution",
           "type": "quantitative",
           "scale": {
-            "scheme": "orangered",
-            "type": "log"
+            "scheme": "orangered"
           }
         },
         "tooltip": [

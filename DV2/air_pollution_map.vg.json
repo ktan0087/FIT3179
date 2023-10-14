@@ -38,7 +38,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/W9/data/data.csv"
+        "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/DV2/data/AQI_by_countries.csv"
       },
       "transform": [
         {

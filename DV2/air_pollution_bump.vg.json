@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "data": {
-    "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/DV2/data/PM2.5_mean_annual_exposure_by_GDP.csv"
+    "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/DV2/data/PM2.5_top10.csv"
   },
   "mark": "line",
   "width": { "step": 50 },
@@ -15,6 +15,6 @@
       "field": "PM",
       "type": "quantitative"
     },
-    "color": { "field": "Region", "type": "nominal" }
+    "color": { "field": "Country", "type": "nominal" }
   }
 }

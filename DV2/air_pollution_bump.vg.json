@@ -3,18 +3,45 @@
   "data": {
     "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/DV2/data/PM2.5_top10.csv"
   },
-  "mark": "line",
-  "width": { "step": 50 },
+  "width": 700,
+  "height": 400,
+  "mark": { "type": "line", "point": { "filled": true, "size": 100 } },
   "encoding": {
     "x": {
       "field": "Year",
-      "type": "nominal",
-      "scale": { "padding": 0.5 }
+      "type": "ordinal",
+      "axis": {
+        "domain": false,
+        "ticks": false,
+        "format": "d",
+        "grid": false,
+        "labelAngle": 0
+      }
     },
     "y": {
-      "field": "PM",
-      "type": "quantitative"
+      "field": "Rank",
+      "type": "quantitative",
+      "axis": {
+        "domain": false,
+        "ticks": false,
+        "grid": false,
+        "labelPadding": 2
+      }
     },
-    "color": { "field": "Country", "type": "nominal" }
+    "order": { "field": "Year", "type": "ordinal" },
+    "color": {
+      "field": "Country",
+      "type": "nominal",
+      "legend": { "orient": "top", "title": "Country" }
+    }
+  },
+  "config": {
+    "view": {
+      "stroke": "transparent"
+    },
+    "background": "transparent",
+    "scale": {
+      "continuousPadding": 0.1
+    }
   }
 }

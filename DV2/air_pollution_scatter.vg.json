@@ -3,8 +3,8 @@
   "data": {
     "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/DV2/data/PM2.5_mean_annual_exposure_by_GDP.csv"
   },
-  "width": 800,
-  "height": 500,
+  "width": 700,
+  "height": 450,
   "params": [
     {
       "name": "year_selection",
@@ -40,8 +40,35 @@
         },
         {
           "name": "select_by_country",
-          "select": { "type": "point", "fields": ["Country"] },
-          "bind": "legend"
+          "select": { "type": "point", "fields": ["Region"] },
+          "bind": {
+            "input": "select",
+            "options": [
+              null,
+              "Africa",
+              "Arab States",
+              "Asia & Pacific",
+              "Europe",
+              "Middle East",
+              "North America",
+              "South/Latin America"
+            ],
+            "labels": [
+              "Show All",
+              "Good",
+              "Hazardous",
+              "Moderate",
+              "Unhealthy",
+              "Unhealthy for Sensitive Groups",
+              "Very Unhealthy"
+            ],
+            "name": "AQI Category: "
+          }
+        },
+        {
+          "name": "grid",
+          "select": "interval",
+          "bind": "scales"
         }
       ],
       "mark": {
@@ -64,17 +91,25 @@
           { "field": "Region", "type": "nominal", "title": "Region" },
           { "field": "Country", "type": "nominal", "title": "Country" },
           {
-            "field": "PM25",
-            "type": "quantitative",
-            "title": "Mean Annual PM2.5 Exposure (ug/m3)"
-          },
-          {
             "field": "GDP per capita",
             "type": "quantitative",
-            "title": "GDP per capita (USD)"
+            "title": "GDP per capita (USD)",
+            "format": ".2f"
+          },
+          {
+            "field": "PM25",
+            "type": "quantitative",
+            "title": "Mean Annual PM2.5 Exposure (ug/m3)",
+            "format": ".2f"
           }
         ]
       }
     }
-  ]
+  ],
+  "config": {
+    "view": {
+      "stroke": "transparent"
+    },
+    "background": "transparent"
+  }
 }

@@ -15,7 +15,8 @@
         "ticks": false,
         "format": "d",
         "grid": false,
-        "labelAngle": 0
+        "labelAngle": 0,
+        "labelPadding": 20
       }
     },
     "y": {
@@ -26,14 +27,21 @@
         "ticks": false,
         "grid": false,
         "labelPadding": 2
-      }
+      },
+      "sort": "descending",
+      "scale": { "domain": [1, 10] }
     },
     "order": { "field": "Year", "type": "ordinal" },
     "color": {
       "field": "Country",
       "type": "nominal",
-      "legend": { "orient": "top", "title": "Country" }
-    }
+      "legend": { "orient": "bottom", "title": "" }
+    },
+    "tooltip": [
+      { "field": "Rank", "type": "quantitative", "title": "Rank" },
+      { "field": "Year", "type": "ordinal", "title": "Year" },
+      { "field": "Country", "type": "nominal", "title": "Country" }
+    ]
   },
   "config": {
     "view": {

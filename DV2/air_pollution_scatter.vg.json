@@ -18,7 +18,10 @@
       }
     }
   ],
-  "transform": [{ "filter": "datum.Year == year_selection" }],
+  "transform": [
+    { "filter": "datum.Year == year_selection" },
+    { "calculate": "'Test'", "as": "Test" }
+  ],
   "encoding": {
     "x": {
       "field": "PM25",
@@ -32,6 +35,19 @@
     }
   },
   "layer": [
+    {
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "fontSize": 100
+      },
+      "encoding": {
+        "text": { "field": "Year" },
+        "x": { "value": 420 },
+        "y": { "value": 250 },
+        "opacity": { "value": 0.002 }
+      }
+    },
     {
       "params": [
         {

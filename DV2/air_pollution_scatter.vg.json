@@ -4,7 +4,7 @@
     "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/DV2/data/PM2.5_mean_annual_exposure_by_GDP.csv"
   },
   "width": 700,
-  "height": 450,
+  "height": 400,
   "params": [
     {
       "name": "year_selection",
@@ -51,18 +51,21 @@
               "Europe",
               "Middle East",
               "North America",
-              "South/Latin America"
+              "South/Latin America",
+              "Others"
             ],
             "labels": [
               "Show All",
-              "Good",
-              "Hazardous",
-              "Moderate",
-              "Unhealthy",
-              "Unhealthy for Sensitive Groups",
-              "Very Unhealthy"
+              "Africa",
+              "Arab States",
+              "Asia & Pacific",
+              "Europe",
+              "Middle East",
+              "North America",
+              "South/Latin America",
+              "Others"
             ],
-            "name": "AQI Category: "
+            "name": "Region: "
           }
         },
         {
@@ -84,8 +87,12 @@
           }
         },
         "color": {
-          "field": "Region",
-          "type": "nominal"
+          "condition": {
+            "param": "select_by_country",
+            "field": "Region",
+            "type": "nominal"
+          },
+          "value": "lightgray"
         },
         "tooltip": [
           { "field": "Region", "type": "nominal", "title": "Region" },

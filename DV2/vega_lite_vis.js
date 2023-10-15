@@ -26,7 +26,7 @@ vegaEmbed("#bar_chart", vg_4)
   })
   .catch(console.error);
 
-var vg_4 = "air_pollution_bump.vg.json";
+var vg_5 = "air_pollution_bump.vg.json";
 vegaEmbed("#bump_chart", vg_5)
   .then(function (result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view

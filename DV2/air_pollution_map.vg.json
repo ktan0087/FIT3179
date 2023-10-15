@@ -2,15 +2,15 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 800,
   "height": 450,
-  "title": { "text": "World Air Quality Index by Country, 2023" },
+  "title": { "text": "Deaths rates by air pollution, (1990 - 2019)" },
   "projection": { "type": "equalEarth" },
   "params": [
     {
       "name": "year_selection",
-      "value": 2019,
+      "value": 1990,
       "bind": {
         "input": "range",
-        "min": 2009,
+        "min": 1990,
         "max": 2019,
         "step": 1,
         "name": "Year: "
@@ -76,18 +76,19 @@
       "encoding": {
         "shape": { "field": "geo", "type": "geojson" },
         "color": {
-          "field": "Air pollution",
+          "field": "Deaths",
           "type": "quantitative",
           "scale": {
             "scheme": "orangered"
-          }
+          },
+          "legend": { "title": "Death rate by air pollution" }
         },
         "tooltip": [
           { "field": "Entity", "type": "nominal" },
           {
-            "field": "Air pollution",
+            "field": "Deaths",
             "type": "quantitative",
-            "title": "Death by air pollution",
+            "title": "Death rate by air pollution",
             "format": ".2f"
           }
         ]

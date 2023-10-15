@@ -57,11 +57,11 @@
           }
         },
         "color": {
-          "field": "Country",
+          "field": "Region",
           "type": "nominal"
         },
         "tooltip": [
-          {"field": "Region", "type": "nominal", "title": "Region"}
+          { "field": "Region", "type": "nominal", "title": "Region" },
           { "field": "Country", "type": "nominal", "title": "Country" },
           {
             "field": "PM25",

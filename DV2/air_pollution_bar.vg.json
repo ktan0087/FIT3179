@@ -2,11 +2,6 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 450,
   "height": 300,
-  "title": {
-    "text": "Deaths by risk factors, 2019",
-    "fontSize": 18,
-    "anchor": "middle"
-  },
   "data": {
     "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/DV2/data/Death%20by%20factor.csv"
   },

@@ -1,0 +1,117 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/ktan0087/FIT3179/main/DV2/data/PM2.5_mean_annual_exposure_by_GDP.csv"
+  },
+  "width": 700,
+  "height": 400,
+  "transform": [
+    {
+      "filter": {
+        "field": "Country",
+        "oneOf": [
+          "Qatar",
+          "Egypt, Arab Rep.",
+          "Niger",
+          "Nepal",
+          "India",
+          "Kuwait",
+          "Mauritania",
+          "Nigeria",
+          "Bahrain",
+          "Saudi Arabia"
+        ]
+      }
+    },
+    {
+      "filter": {
+        "field": "Year",
+        "oneOf": [2010, 2019]
+      }
+    }
+  ],
+  "encoding": {
+    "y": {
+      "field": "Country",
+      "type": "nominal",
+      "title": "Country",
+      "scale": {
+        "domain": [
+          "Qatar",
+          "Egypt, Arab Rep.",
+          "Niger",
+          "Nepal",
+          "India",
+          "Kuwait",
+          "Mauritania",
+          "Nigeria",
+          "Bahrain",
+          "Saudi Arabia"
+        ]
+      }
+    },
+    "x": {
+      "field": "PM25",
+      "type": "quantitative",
+      "title": "PM2.5 level (µg/m³)",
+      "axis": {
+        "offset": 5,
+        "ticks": false,
+        "minExtent": 70
+      },
+      "scale": {
+        "domain": [50, 100],
+        "nice": false
+      }
+    },
+    "tooltip": [
+      { "field": "Year", "type": "nominal", "title": "Year" },
+      { "field": "Country", "type": "nominal", "title": "Country" },
+      {
+        "field": "PM25",
+        "type": "quantitative",
+        "title": "PM2.5",
+        "format": ".2f"
+      }
+    ]
+  },
+  "layer": [
+    {
+      "mark": "line",
+      "encoding": {
+        "detail": {
+          "field": "Country",
+          "type": "nominal"
+        },
+        "color": { "value": "#db646f" }
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true
+      },
+      "encoding": {
+        "color": {
+          "field": "Year",
+          "type": "nominal",
+          "scale": {
+            "domain": [2010, 2019],
+            "range": ["#f4b98b", "#d94e37"]
+          },
+          "title": "Year"
+        },
+        "size": { "value": 100 },
+        "opacity": {
+          "value": 1
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": "transparent"
+    },
+    "background": "transparent"
+  }
+}

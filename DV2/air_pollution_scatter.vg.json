@@ -20,7 +20,15 @@
   ],
   "transform": [
     { "filter": "datum.Year == year_selection" },
-    { "calculate": "'Test'", "as": "Test" }
+    { "calculate": "'Test'", "as": "Test" },
+    {
+      "calculate": "'Although Qatar are \\=having rapid development\\, =they tend to control\\=air pollution quite well'",
+      "as": "line_break"
+    },
+    {
+      "calculate": "split(datum.line_break, '=')",
+      "as": "annotate"
+    }
   ],
   "encoding": {
     "x": {
@@ -126,6 +134,25 @@
             "format": ".2f"
           }
         ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 1,
+        "dy": 1,
+        "fontSize": 12,
+        "fontWeight": "lighter",
+        "opacity": 0.1
+      },
+      "encoding": {
+        "text": {
+          "field": "annotate",
+          "type": "nominal"
+        },
+        "x": { "value": 500 },
+        "y": { "value": 130 }
       }
     }
   ],
